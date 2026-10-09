@@ -1,6 +1,6 @@
 # Estático: Nunca es tarde (relato personal)
 
-**Estado: BORRADOR para tu aprobación** · no publicado · no programado
+**Estado: APROBADO por Karina el 9 oct 2026** · programación pendiente, a cargo de Karina · aún no programado ni publicado
 
 **Fecha sugerida:** 2026-11-05 · **Hora provisoria:** 12:00 (Costa Rica)
 **Archivo:** imagen.png (1080×1350)

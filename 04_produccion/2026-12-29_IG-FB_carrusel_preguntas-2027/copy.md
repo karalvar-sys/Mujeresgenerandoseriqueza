@@ -1,6 +1,6 @@
 # Carrusel: Lo que quiero seguir preguntando en 2027
 
-**Estado: BORRADOR para tu aprobación** · no publicado · no programado
+**Estado: APROBADO por Karina el 9 oct 2026** · programación pendiente, a cargo de Karina · aún no programado ni publicado
 
 **Fecha sugerida:** 2026-12-29 · **Hora provisoria:** 19:00 (hora de Costa Rica; ajustar con Insights)
 **Archivos:** slide_01.png … slide_07.png (1080×1350)

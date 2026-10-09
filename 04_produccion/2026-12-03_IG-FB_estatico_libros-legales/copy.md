@@ -1,6 +1,6 @@
 # Estático: Libros legales de la sociedad
 
-**Estado: BORRADOR para tu aprobación** · no publicado · no programado
+**Estado: APROBADO por Karina el 9 oct 2026 CON CONDICIONES (ver control de calidad y marcadores [ENLACE])** · programación pendiente, a cargo de Karina · aún no programado ni publicado
 
 **Fecha sugerida:** 2026-12-03 · **Hora provisoria:** 12:00 (Costa Rica)
 **Archivo:** imagen.png (1080×1350)

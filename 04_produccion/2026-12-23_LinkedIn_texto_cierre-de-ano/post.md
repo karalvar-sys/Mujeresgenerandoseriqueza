@@ -1,6 +1,6 @@
 # LinkedIn: Cinco preguntas para cerrar el año
 
-**Estado: BORRADOR para tu aprobación** · no publicado · no programado
+**Estado: APROBADO por Karina el 9 oct 2026** · programación pendiente, a cargo de Karina · aún no programado ni publicado
 
 **Fecha sugerida:** 2026-12-23 · **Hora provisoria:** 08:00 (Costa Rica)
 
