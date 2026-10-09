@@ -2,6 +2,17 @@
 
 Objetivo: pasar de una red de 163 conexiones, casi sin emprendedoras, a una red con **mujeres que dirigen o fundan negocios en Costa Rica**, que hoy son tu clienta ideal y tu mejor canal de recomendación. Enfoque: conversación y valor primero, no venta. Sin presupuesto de publicidad (decisión del 9 oct). Los agentes preparan materiales; **vos enviás y publicás**.
 
+## 0. Dato nuevo (9 oct): tu sector es el agrícola
+Karina trabajó toda la vida en el sector agrícola. Eso es una **diferenciación real**: pocas personas combinan derecho societario y notarial con conocimiento del campo. Propuesta: priorizar a **productoras y empresarias agropecuarias** como primer segmento de la red, sin cerrar la puerta a otras.
+Segmentos agro a explorar (hipótesis):
+- Productoras y dueñas de fincas (cultivos, ganadería, forestal, agroindustria pequeña).
+- Agroemprendedoras: transformación de alimentos, ventas en ferias, agroturismo, productos con valor agregado.
+- Mujeres en cooperativas y asociaciones de productoras.
+- Familias con **finca familiar** que se plantean formalizar, ordenar la propiedad o la sociedad.
+Dónde se las encuentra (a verificar): cooperativas agropecuarias, cámaras del sector, ferias del agricultor, oficinas del Ministerio de Agricultura y de desarrollo rural, programas de la banca de desarrollo, universidades con carreras agropecuarias. En tu red ya hay personas del sector agropecuario, forestal y agroindustrial que pueden presentarte (las ves en el archivo local de contactos).
+Mensaje diferenciador (propuesta): *"Abogada con experiencia en el campo, escribo sobre dinero, derecho y autonomía de las mujeres que producen."*
+Temas agro que podrían alimentar contenido y charla (todos por verificar jurídicamente): a nombre de quién está la finca; finca familiar y sociedad; arrendar tu finca con contrato; cooperativa o sociedad; vender cosecha con contrato y factura; linderos y planos; agroturismo.
+
 ## 1. A quién buscamos (perfil, a confirmar con vos)
 - **Empresarias y fundadoras** de pymes y emprendimientos en Costa Rica, con negocio activo (ideal: más de un año).
 - Segmentos de partida: servicios profesionales, comercio minorista, alimentos y bebidas, belleza y bienestar, educación, agro y artesanía, turismo.

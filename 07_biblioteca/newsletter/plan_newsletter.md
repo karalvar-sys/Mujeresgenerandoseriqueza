@@ -1,6 +1,6 @@
 # Plan del newsletter *Mujeres generándose riqueza* (v1, borrador para tu aprobación)
 
-Estado hoy: 4 artículos (23 ago a 8 sep), sin publicación desde el 8 sep; suscriptores y aperturas **desconocidos**. Es tu activo de escritora más importante. Sin presupuesto de publicidad: el crecimiento depende de contenido, recomendaciones y presencia.
+Estado hoy: 4 artículos (23 ago a 8 sep), sin publicación desde el 8 sep; **unos 2 suscriptores** (dato de Karina, 9 oct, aproximado); aperturas desconocidas. **Karina redacta los artículos**; el sistema solo revisa y prepara el entorno. Es tu activo de escritora más importante. Sin presupuesto de publicidad: el crecimiento depende de contenido, recomendaciones y presencia.
 
 ## 1. Propósito y promesa
 **Para quién:** mujeres de Costa Rica y Latinoamérica que emprenden o administran su patrimonio y quieren entender las reglas del dinero y del derecho.
@@ -31,8 +31,12 @@ Estado hoy: 4 artículos (23 ago a 8 sep), sin publicación desde el 8 sep; susc
 | vie 13 nov | Un secreto, amigas: la revisión de tus bienes en los registros públicos | El hábito de revisar lo que figura a tu nombre es mantenimiento, no desconfianza | Herramienta (lista) | Formulario (cuando exista) |
 | vie 27 nov | Mis años mozos y mis sabotajes | Nunca es tarde; lo que se dice querer y lo que se hace pueden alinearse | Relato personal | Responder al correo |
 | vie 11 dic | Las creencias que nos dejó el sistema económico | Hay creencias heredadas que conviene mirar antes de decidir si las conservás | Ensayo | Suscribirse |
-| vie 18 dic | La psicología del dinero, versión de este lado del mundo | *Pendiente: el texto que enviaste quedó cortado* | Ensayo | Suscribirse |
+| vie 18 dic | La psicología del dinero, versión de este lado del mundo | *Pendiente: Karina retoma la idea y la comparte* | Ensayo | Suscribirse |
 Fe de erratas: el autor es **Morgan Housel**; el libro en español, *La psicología del dinero*.
+
+## 4b. Metas realistas desde ~2 suscriptores (hipótesis, no pronóstico)
+Con una base casi nula, el crecimiento depende de personas, no de algoritmo. Umbral de aprendizaje: **25 a 50 suscriptoras en 60 días** invitando de forma personal (a quienes ya conversaste, a las organizaciones y en las charlas) y poniendo el enlace en todas las piezas. Revisión el 16 de octubre y cada viernes.
+Dato del sector: el ángulo agrícola puede ser un tema propio del newsletter (por ejemplo, una sección sobre mujeres productoras). Decisión tuya.
 
 ## 5. Cómo crecer sin presupuesto
 1. **Cada pieza del lote cierra con el enlace** al newsletter.
@@ -60,7 +64,8 @@ Suscriptores totales y nuevos por semana, tasa de apertura, clics por enlace, re
 > Hola, gracias por suscribirte. Cada dos semanas te voy a mandar un artículo sobre dinero, derecho y autonomía de las mujeres: una idea clara, con fuentes y con una pregunta para pensar. Si hay un tema que te interesa, respondé este correo y lo leo. Un abrazo, Karina.
 
 ## 10. Qué necesito de vos
-1. El texto completo sobre la psicología del dinero (quedó cortado).
-2. Si querés que redacte los borradores de los artículos o los escribís vos y yo reviso.
-3. El número actual de suscriptores y capturas de aperturas.
-4. Tu OK para cambiar la dirección y el nombre.
+1. El texto de la psicología del dinero, cuando retomes la idea.
+2. Capturas de suscriptores y aperturas.
+3. Tu OK para cambiar la dirección y el nombre.
+4. Si querés que el sector agrícola sea una sección o línea del newsletter.
+(Decidido 9 oct: **los artículos los redacta Karina**.)

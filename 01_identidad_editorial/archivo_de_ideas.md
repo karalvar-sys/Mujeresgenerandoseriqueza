@@ -22,6 +22,11 @@ Fuente: tu propio libro (páginas entre paréntesis). Son **tus** ideas; el edit
 | 16 | **Arrancar no es el obstáculo; consolidar sí** (Substack, 28 ago) | ¿Por qué las mujeres llegan al arranque pero no al negocio consolidado? | Serie Substack, carrusel con cifras verificadas | 1, 2 | **Alto: es el hilo que conecta con los tres servicios** | Publicada; reutilizar tras verificar cifras |
 | 17 | **Qué se enseña a las mujeres a culparse** (Substack, 23 ago) | ¿Qué aprendimos a buscar en nosotras que no dependía de nosotras? | Ensayo corto, post LinkedIn | 5, 6 | Marca de autora | Publicada |
 | 18 | **La consciencia social va más lenta que la ley** (Substack, 23 ago) | ¿Qué falta cuando la ley ya nos declara iguales? | Cita para carrusel, ensayo | 5 | Marca | Publicada |
+| 19 | **¿A nombre de quién está la finca?** (tenencia de la tierra y mujeres) | ¿Quién figura y quién produce? | Carrusel, ensayo, charla | 1, 4 | **Alto: diferenciación agro** | Propuesta · Verificar cifra del INAMU/censo |
+| 20 | **Finca familiar y sociedad: ¿conviene?** | ¿Qué se gana y qué se pierde? | Carrusel, artículo | 4 | Alto: constitución y chequeo | Propuesta · Verificar |
+| 21 | **Arrendar tu finca con contrato** | ¿Qué debe quedar por escrito? | Carrusel | 3 | Medio | Propuesta · Verificar |
+| 22 | **Vender la cosecha con contrato y factura** | ¿Cuánto de lo que vendés está asegurado? | Carrusel, LinkedIn | 2, 3 | Medio | Propuesta (de tu libro pp. 46-47) |
+| 23 | **Agroturismo y agro con valor agregado: cuándo formalizar** | ¿Cuándo un proyecto deja de ser "un extra"? | Ensayo | 2 | Medio | Propuesta (ejemplo de tu libro) |
 
 ## Preguntas que te hago antes de usar estas ideas
 - ¿Querés que sigan firmadas con tu experiencia en primera persona ("en mi práctica he visto…") en todos los canales, o solo en Substack y LinkedIn?

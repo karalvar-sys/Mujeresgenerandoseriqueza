@@ -39,3 +39,5 @@ Solo Karina mueve algo a `Aprobado`. Actualizado: 2026-10-09.
 | 32 | Revisión semanal agendada (viernes 8:52 CR; 1.ª: 16 oct) | **Agendada** (rutina creada; Karina lo pidió el 9 oct) | Cambiar día/hora si querés | `02_calendario/revision_semanal_agenda.md` |
 | 33 | Plan de crecimiento de red con empresarias (`00_diagnostico/plan_red_empresarias.md`) | **Borrador para tu aprobación** | Definir sectores/zonas; aprobar notas y primer mensaje | Los envíos los hacés vos |
 | 34 | Plan del newsletter (`07_biblioteca/newsletter/plan_newsletter.md`) | **Borrador para tu aprobación** | Aprobar ajustes (dirección, nombre con tilde), cadencia y calendario; mandar el texto cortado | |
+| 35 | Diferenciador agrícola: ¿hacerlo línea pública (perfiles, mensajes, algunas piezas)? | **Propuesta** | Decidir si el sector agro es tu nicho público; subsector y zona | Si sí: ajusto perfiles y propongo cambiar 3 a 4 piezas del lote (solo con tu aprobación) |
+| 36 | Artículos del Substack | **Decidido 9 oct: los redacta Karina** | Compartir la idea de psicología del dinero cuando la retome | |

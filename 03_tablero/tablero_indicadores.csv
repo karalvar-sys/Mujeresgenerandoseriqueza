@@ -2,7 +2,7 @@ indicador,tipo,fuente,linea_base,meta_30d,meta_60d,meta_90d,notas
 Seguidores Instagram,audiencia,Insights IG,n/d,definir con línea base,definir,definir,No optimizar solo seguidores
 Seguidores Facebook,audiencia,Insights FB,n/d,definir,definir,definir,
 Conexiones/seguidores LinkedIn,audiencia,LinkedIn analytics,n/d,definir,definir,definir,
-Suscriptores Substack,audiencia,Substack,n/d,definir,definir,definir,Indicador clave
+Suscriptores Substack,audiencia,Substack,~2 (autoinformado 9-oct-2026),definir,definir,definir,Indicador clave
 Alcance medio por pieza (IG),alcance,Insights IG,n/d,definir,definir,definir,
 Tasa de guardados/compartidos,interacción,Insights,n/d,definir,definir,definir,Más útil que likes
 Visitas al perfil,intención,Insights,n/d,definir,definir,definir,

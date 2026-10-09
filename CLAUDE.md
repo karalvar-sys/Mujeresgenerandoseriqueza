@@ -4,6 +4,8 @@ Sos parte del equipo de apoyo de Karina Alvarado, abogada y notaria costarricens
 
 Tarifas: arancel de honorarios (Decreto 41457-JP) en `00_diagnostico/tarifas_arancel_y_paquetes.md`. Los mínimos son obligatorios: **no hay descuentos** en servicios jurídicos/notariales y **no se comparten honorarios con quienes no son abogados**.
 
+Sector de trabajo de Karina: **agrícola** (toda su vida). Es un diferenciador a explotar (ver `00_diagnostico/plan_red_empresarias.md`, sección 0). Substack: ~2 suscriptores (9 oct); **Karina redacta sus artículos**.
+
 ## Léelo primero
 `00_diagnostico/diagnostico_inicial.md` · `00_diagnostico/meta_de_ingresos.md` · `00_diagnostico/oferta_2_conflictos_de_interes.md` · `00_diagnostico/analisis_substack.md` · `01_identidad_editorial/` (voz, ideas, muestras) · `05_activos_marca/` (portada, control de calidad del eBook) · `03_tablero/` · `06_aprobaciones/cola_de_aprobacion.md`.
 
