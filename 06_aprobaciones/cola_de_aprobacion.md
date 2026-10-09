@@ -34,3 +34,5 @@ Solo Karina mueve algo a `Aprobado`. Actualizado: 2026-10-09.
 | 27 | Borradores de artículos del Substack (6 propuestos) | Pendiente | ¿Querés que redacte los borradores, o escribís vos y yo reviso? | Calendario del Substack en el documento del lote |
 | 28 | Verificaciones previas a publicar | Pendiente | Revisar las casillas "Verificar" de W03, W05, W07, W08, W09 | Normas, cifras y afirmaciones históricas |
 | 29 | Condiciones del lote aprobado | Pendiente: tuyo | Antes de subir: (1) reemplazar `[ENLACE]` en sem. 10; (2) pieza del 1 dic solo con formulario activo; (3) resolver casillas \"Verificar\" de sem. 3, 5, 7, 8, 9 | Paquetes por tanda en `04_produccion/paquetes/` |
+| 30 | Programación del lote | **Octubre (13-29 oct): programado por Karina, autoinformado el 9 oct.** Tandas 2 y 3 (noviembre y diciembre): pendientes de Karina | Cumplir las condiciones de las semanas 3, 5, 7, 8, 9 y 10 antes de programar | `registro_programacion.csv` |
+| 31 | Mensajes a la red (Grupo 1) | **Enviados según Karina (9 oct): cuáles y cuándo, por confirmar** | Decirme qué mensajes y fechas, y reportar respuestas | Seguimiento único a los 7 días de cada envío |
