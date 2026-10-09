@@ -27,3 +27,9 @@ Solo Karina mueve algo a `Aprobado`. Actualizado: 2026-10-09.
 | 19 | Reactivar el Substack (tu activo de escritora; pausa desde el 8 sep) | Pendiente | ¿Retomar con un ritmo bajo (quincenal)? | Carrusel y artículo siguen en pausa |
 | 20 | Descriptor "escritora y asesora" vs. "asesora" | Pendiente | Confirmar | |
 | 22 | Resumen de una página de la charla (`08_servicios/charla/resumen_una_pagina.pdf`) | **Borrador para tu aprobación** | Completar [correo de contacto] y [enlace al newsletter]; aprobar | Se adjunta solo a quien responda a los mensajes 6 a 9 |
+| 23 | **Lote de contenido 13 oct a 31 dic** (35 piezas: 12 carruseles, 11 estáticos, 12 textos de LinkedIn; 3 con documento PDF) | **Borrador para tu aprobación, por tandas** | Aprobar o pedir cambios: Tanda 1 (sem. 1-4), Tanda 2 (sem. 5-8), Tanda 3 (sem. 9-12) | Calendario: `02_calendario/calendario_oct_dic_2026.md`. Guía: `04_produccion/guia_programacion_manual.md`. **Para publicar el 13 oct hay que aprobar la Tanda 1 antes del 12 oct** |
+| 24 | Relato personal (sem. 4: "mis años mozos") | **Requiere tu aprobación expresa** | Confirmar que querés contarlo en público y con estas palabras | Pieza W04 |
+| 25 | Frase "con nuestros cuerpos" (de tu texto sobre creencias) | Omitida | ¿La querés incluir? | Pieza W05 |
+| 26 | Texto cortado sobre psicología del dinero | **Pendiente: tuyo** | Enviarme el resto del mensaje | Sem. 6 usa otro tema mientras tanto |
+| 27 | Borradores de artículos del Substack (6 propuestos) | Pendiente | ¿Querés que redacte los borradores, o escribís vos y yo reviso? | Calendario del Substack en el documento del lote |
+| 28 | Verificaciones previas a publicar | Pendiente | Revisar las casillas "Verificar" de W03, W05, W07, W08, W09 | Normas, cifras y afirmaciones históricas |

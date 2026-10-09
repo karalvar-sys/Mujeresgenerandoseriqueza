@@ -13,3 +13,4 @@ Empezá por `00_diagnostico/diagnostico_inicial.md` (v0.2) y `05_activos_marca/h
 | `06_aprobaciones/` | Cola de aprobación | Activa |
 
 Nada está publicado ni programado. Sistema de agentes: ver `CLAUDE.md`, `.claude/agents/` y `06_aprobaciones/cola_de_aprobacion.md`. El PDF del manuscrito no se guarda en el repositorio.
+- Lote oct-dic: ver `04_produccion/hoja_de_control_oct_dic.csv`.

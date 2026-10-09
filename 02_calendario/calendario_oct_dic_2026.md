@@ -1,0 +1,61 @@
+# Calendario de contenido: 13 oct a 31 dic 2026
+
+Estado de todo: **borrador pendiente de tu aprobación**. Nada está programado ni publicado. Horas provisorias (Costa Rica, UTC-6), a ajustar con Insights cuando haya datos.
+
+Ritmo: IG+FB martes (carrusel) y jueves (estático); LinkedIn miércoles (texto, 3 con documento PDF); Substack viernes cada dos semanas. Sin Reels en este lote (ver nota al final).
+
+| Fecha | Hora | Canal | Formato | Tema | Carpeta | Requiere |
+|---|---|---|---|---|---|---|
+| mar 13/10 | 19:00 | IG+FB | carrusel | Ingresos vs. patrimonio | `2026-10-13_IG-FB_carrusel_ingresos-vs-patrimonio` | Basado en tu título y en tu frase del Substack 'El libro'. |
+| mié 14/10 | 08:00 | LinkedIn | texto | Ingresos vs. patrimonio | `2026-10-14_LinkedIn_texto_ingresos-vs-patrimonio` | Basado en tu título y en tu frase del Substack 'El libro'. |
+| jue 15/10 | 12:00 | IG+FB | estatico | Ingresos vs. patrimonio | `2026-10-15_IG-FB_estatico_ingresos-vs-patrimonio` | Basado en tu título y en tu frase del Substack 'El libro'. |
+| mar 20/10 | 19:00 | IG+FB | carrusel | Emprendimiento vs. patrimonio | `2026-10-20_IG-FB_carrusel_emprendimiento-vs-patrimonio` | Basado en tu título de artículo. El desarrollo es propuesta mía: corregilo. |
+| mié 21/10 | 08:00 | LinkedIn | texto | Emprendimiento vs. patrimonio | `2026-10-21_LinkedIn_texto_emprendimiento-vs-patrimonio` | Basado en tu título de artículo. El desarrollo es propuesta mía: corregilo. |
+| jue 22/10 | 12:00 | IG+FB | estatico | Emprendimiento vs. patrimonio | `2026-10-22_IG-FB_estatico_emprendimiento-vs-patrimonio` | Basado en tu título de artículo. El desarrollo es propuesta mía: corregilo. |
+| mar 27/10 | 19:00 | IG+FB | carrusel | Revisión periódica de bienes en registros públicos | `2026-10-27_IG-FB_carrusel_revision-de-registros-publicos` | Basado en tu texto 'un secreto, amigas'. La afirmación sobre tus clientes es tuya: confirmá que podés decirla así (sin identificar a nadie).; Cómo se hace en la práctica la consulta/estudio de registro en Costa Rica (qué se puede pedir y dónde); confirmar la redacción de la lista. |
+| mié 28/10 | 08:00 | LinkedIn | texto + documento PDF | Revisión periódica de bienes en registros públicos | `2026-10-28_LinkedIn_texto_revision-de-registros-publicos` | Basado en tu texto 'un secreto, amigas'. La afirmación sobre tus clientes es tuya: confirmá que podés decirla así (sin identificar a nadie).; Cómo se hace en la práctica la consulta/estudio de registro en Costa Rica (qué se puede pedir y dónde); confirmar la redacción de la lista. |
+| jue 29/10 | 12:00 | IG+FB | estatico | Revisión periódica de bienes en registros públicos | `2026-10-29_IG-FB_estatico_revision-de-registros-publicos` | Basado en tu texto 'un secreto, amigas'. La afirmación sobre tus clientes es tuya: confirmá que podés decirla así (sin identificar a nadie).; Cómo se hace en la práctica la consulta/estudio de registro en Costa Rica (qué se puede pedir y dónde); confirmar la redacción de la lista. |
+| mar 3/11 | 19:00 | IG+FB | carrusel | Nunca es tarde (relato personal) | `2026-11-03_IG-FB_carrusel_nunca-es-tarde` | RELATO PERSONAL: es tuyo, adaptado de tu mensaje. Requiere tu aprobación explícita antes de publicarse. |
+| mié 4/11 | 08:00 | LinkedIn | texto | Nunca es tarde (relato personal) | `2026-11-04_LinkedIn_texto_nunca-es-tarde` | RELATO PERSONAL: es tuyo, adaptado de tu mensaje. Requiere tu aprobación explícita antes de publicarse. |
+| jue 5/11 | 12:00 | IG+FB | estatico | Nunca es tarde (relato personal) | `2026-11-05_IG-FB_estatico_nunca-es-tarde` | RELATO PERSONAL: es tuyo, adaptado de tu mensaje. Requiere tu aprobación explícita antes de publicarse. |
+| mar 10/11 | 19:00 | IG+FB | carrusel | Creencias heredadas del sistema económico | `2026-11-10_IG-FB_carrusel_creencias-heredadas` | Basado en tu texto sobre creencias y sistema económico. Omití la frase 'con nuestros cuerpos'; decime si querés incluirla.; Afirmación histórica ('el control de nuestro dinero es reciente'): es tuya; conviene tener un dato o fuente para respaldarla si te la cuestionan.; Respaldo histórico para 'el control de nuestro dinero es reciente'. |
+| mié 11/11 | 08:00 | LinkedIn | texto | Creencias heredadas del sistema económico | `2026-11-11_LinkedIn_texto_creencias-heredadas` | Basado en tu texto sobre creencias y sistema económico. Omití la frase 'con nuestros cuerpos'; decime si querés incluirla.; Afirmación histórica ('el control de nuestro dinero es reciente'): es tuya; conviene tener un dato o fuente para respaldarla si te la cuestionan.; Respaldo histórico para 'el control de nuestro dinero es reciente'. |
+| jue 12/11 | 12:00 | IG+FB | estatico | Creencias heredadas del sistema económico | `2026-11-12_IG-FB_estatico_creencias-heredadas` | Basado en tu texto sobre creencias y sistema económico. Omití la frase 'con nuestros cuerpos'; decime si querés incluirla.; Respaldo histórico para 'el control de nuestro dinero es reciente'. |
+| mar 17/11 | 19:00 | IG+FB | carrusel | Separar cuentas del negocio y personales | `2026-11-17_IG-FB_carrusel_separar-cuentas` | Basado en tu libro (pp. 51 y 64). Los pasos de la diapositiva 4 son propuesta mía. |
+| mié 18/11 | 08:00 | LinkedIn | texto | Separar cuentas del negocio y personales | `2026-11-18_LinkedIn_texto_separar-cuentas` | Basado en tu libro (pp. 51 y 64). Los pasos de la diapositiva 4 son propuesta mía. |
+| jue 19/11 | 12:00 | IG+FB | estatico | Separar cuentas del negocio y personales | `2026-11-19_IG-FB_estatico_separar-cuentas` | Basado en tu libro (pp. 51 y 64). Los pasos de la diapositiva 4 son propuesta mía. |
+| mar 24/11 | 19:00 | IG+FB | carrusel | Tres obstáculos entre arrancar y consolidar | `2026-11-24_IG-FB_carrusel_tres-obstaculos` | Basado en tu artículo del 28 de agosto. Sin cifras en las piezas hasta verificar los informes.; Confirmar las cifras de GEM 2024/2025 e IV Informe de Brechas INAMU antes de citar números. La pieza solo usa la tesis. |
+| mié 25/11 | 08:00 | LinkedIn | texto + documento PDF | Tres obstáculos entre arrancar y consolidar | `2026-11-25_LinkedIn_texto_tres-obstaculos` | Basado en tu artículo del 28 de agosto. Sin cifras en las piezas hasta verificar los informes.; Confirmar las cifras de GEM 2024/2025 e IV Informe de Brechas INAMU antes de citar números. La pieza solo usa la tesis. |
+| jue 26/11 | 12:00 | IG+FB | estatico | Tres obstáculos entre arrancar y consolidar | `2026-11-26_IG-FB_estatico_tres-obstaculos` | Basado en tu artículo del 28 de agosto. Sin cifras en las piezas hasta verificar los informes.; Confirmar las cifras de GEM 2024/2025 e IV Informe de Brechas INAMU antes de citar números. La pieza solo usa la tesis. |
+| mar 1/12 | 19:00 | IG+FB | carrusel | Libros legales de la sociedad | `2026-12-01_IG-FB_carrusel_libros-legales` | Basado en tu libro (pp. 29-33). Contiene un llamado a consultar: activar SOLO si ya existe el formulario; si no, reemplazar por 'guardá esta publicación'.; Lista de libros legales de la S.A. y de la S.R.L. según el Código de Comercio vigente. |
+| mié 2/12 | 08:00 | LinkedIn | texto | Libros legales de la sociedad | `2026-12-02_LinkedIn_texto_libros-legales` | Basado en tu libro (pp. 29-33). Contiene un llamado a consultar: activar SOLO si ya existe el formulario; si no, reemplazar por 'guardá esta publicación'.; Lista de libros legales de la S.A. y de la S.R.L. según el Código de Comercio vigente. |
+| jue 3/12 | 12:00 | IG+FB | estatico | Libros legales de la sociedad | `2026-12-03_IG-FB_estatico_libros-legales` | Basado en tu libro (pp. 29-33). Contiene un llamado a consultar: activar SOLO si ya existe el formulario; si no, reemplazar por 'guardá esta publicación'.; Lista de libros legales de la S.A. y de la S.R.L. según el Código de Comercio vigente. |
+| mar 8/12 | 19:00 | IG+FB | carrusel | Aceptar un cargo en una sociedad | `2026-12-08_IG-FB_carrusel_cargo-en-sociedad` | Carrusel ya producido (8 diapositivas, portada incluida). Pendiente verificar la norma de responsabilidad del representante legal.; Responsabilidad personal del representante legal por deudas con Hacienda y CCSS (tu libro pp. 26-28, nota 23). |
+| mié 9/12 | 08:00 | LinkedIn | texto | Aceptar un cargo en una sociedad | `2026-12-09_LinkedIn_texto_cargo-en-sociedad` | Carrusel ya producido (8 diapositivas, portada incluida). Pendiente verificar la norma de responsabilidad del representante legal.; Responsabilidad personal del representante legal por deudas con Hacienda y CCSS (tu libro pp. 26-28, nota 23). |
+| jue 10/12 | 12:00 | IG+FB | estatico | Aceptar un cargo en una sociedad | `2026-12-10_IG-FB_estatico_cargo-en-sociedad` | Carrusel ya producido (8 diapositivas, portada incluida). Pendiente verificar la norma de responsabilidad del representante legal.; Responsabilidad personal del representante legal por deudas con Hacienda y CCSS (tu libro pp. 26-28, nota 23). |
+| mar 15/12 | 19:00 | IG+FB | carrusel | El libro que me hubiera gustado tener | `2026-12-15_IG-FB_carrusel_el-libro` | Basado en tu artículo 'El libro' (Substack). Incluye la portada real. Confirmá el enlace de Amazon y el precio antes de programar. |
+| mié 16/12 | 08:00 | LinkedIn | texto + documento PDF | El libro que me hubiera gustado tener | `2026-12-16_LinkedIn_texto_el-libro` | Basado en tu artículo 'El libro' (Substack). Incluye la portada real. Confirmá el enlace de Amazon y el precio antes de programar. |
+| jue 17/12 | 12:00 | IG+FB | estatico | El libro que me hubiera gustado tener | `2026-12-17_IG-FB_estatico_el-libro` | Basado en tu artículo 'El libro' (Substack). Incluye la portada real. Confirmá el enlace de Amazon y el precio antes de programar. |
+| mar 22/12 | 19:00 | IG+FB | carrusel | Cinco preguntas para cerrar el año | `2026-12-22_IG-FB_carrusel_cierre-de-ano` | Solo preguntas; sin datos ni normas. |
+| mié 23/12 | 08:00 | LinkedIn | texto | Cinco preguntas para cerrar el año | `2026-12-23_LinkedIn_texto_cierre-de-ano` | Solo preguntas; sin datos ni normas. |
+| mar 29/12 | 19:00 | IG+FB | carrusel | Lo que quiero seguir preguntando en 2027 | `2026-12-29_IG-FB_carrusel_preguntas-2027` | Las preguntas salen de tus textos. Si preferís otras para 2027, cambialas. |
+| mié 30/12 | 08:00 | LinkedIn | texto | Lo que quiero seguir preguntando en 2027 | `2026-12-30_LinkedIn_texto_preguntas-2027` | Las preguntas salen de tus textos. Si preferís otras para 2027, cambialas. |
+| jue 31/12 | 12:00 | IG+FB | estatico | Lo que quiero seguir preguntando en 2027 | `2026-12-31_IG-FB_estatico_preguntas-2027` | Las preguntas salen de tus textos. Si preferís otras para 2027, cambialas. |
+
+## Substack (artículos largos, viernes cada dos semanas): propuesta con tus ideas
+| Fecha | Artículo | Fuente | Estado |
+|---|---|---|---|
+| vie 16 oct | No es lo mismo generar ingresos que consolidar un patrimonio | Tu idea | Esperando tu confirmación de si querés que redacte el borrador |
+| vie 30 oct | No es igual crear un emprendimiento que crear un patrimonio | Tu idea | Ídem |
+| vie 13 nov | Un secreto, amigas: la revisión de tus bienes en los registros públicos | Tu texto del 9 oct | Ídem |
+| vie 27 nov | Mis años mozos y mis sabotajes (relato personal) | Tu texto del 9 oct | Requiere tu aprobación expresa |
+| vie 11 dic | Las creencias que nos dejó el sistema económico | Tu texto del 9 oct | Ídem |
+| vie 18 dic | La psicología del dinero, versión de este lado del mundo (a partir de Morgan Housel) | Tu texto del 9 oct, **cortado** | **Necesito el resto**: tu mensaje terminó en "Primero que debemos ganar autonomía, luego tenemos…" |
+
+Nota sobre Housel: el autor se escribe **Morgan Housel**. El libro en español es *La psicología del dinero*.
+
+## Notas
+- **Reels:** no incluidos. Un Reel sin tu voz ni tu cara perdería lo que te distingue. Puedo preparar guiones para que los grabes vos, o Reels de texto en pantalla, cuando lo pidas.
+- **Piezas con venta o consulta** (libros legales, W08): activar solo cuando el formulario de contacto exista. Si no, cambiar la llamada a la acción por "guardá esta publicación".
+- **Navidad:** no hay publicación IG/FB el jueves 24 de diciembre.
+- **Todo lo que cite normas, cifras o informes** (W03, W05, W07, W08, W09) tiene una casilla "Verificar" en su ficha.
