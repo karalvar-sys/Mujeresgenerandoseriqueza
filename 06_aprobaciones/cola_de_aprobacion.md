@@ -21,7 +21,8 @@ Solo Karina mueve algo a `Aprobado`. Actualizado: 2026-10-09.
 | 15 | Decisiones del 9 oct: más de quince años; no mencionar cierre ni notaria; voseo; charla gratuita; énfasis en reinventarse como escritora | **Aplicadas a los borradores** | — | |
 | 15b | Página de servicio y perfiles Google/LinkedIn | **Borrador para tu aprobación** | Revisar `08_servicios/pagina_de_servicio_borrador.md` y `perfiles_google_y_linkedin_borrador.md` y resolver los [?] | No publicados |
 | 16 | Presupuesto para publicidad pagada | **Resuelto 9 oct: no hay presupuesto** | — | Solo canales orgánicos |
-| 17 | Red personal: forma de pasarla (`09_red_personal/README.md`) | Esperando tu lista | Elegir cómo pasarla | Sin datos sensibles |
+| 17 | Red personal (163 conexiones LinkedIn) | **Recibida 9 oct**; segmentada | Marcar exclientas y a quién conocés | Archivos con nombres solo locales |
+| 21 | Mensajes personalizados del Grupo 1 (13 contactos) (`09_red_personal/mensajes_personalizados.md`, local) | **Borrador para tu aprobación** | ✅ / ✏️ / ❌ por mensaje; completar la línea personal | Los enviás vos |
 | 18 | Constitución de sociedades sin mencionar quién autoriza el acto (riesgo de publicidad engañosa) | **Pendiente: decisión tuya** | Elegir: mención mínima, publicar solo servicios 2 y 3, o aclarar solo en la propuesta | Verificar con el Colegio y la DNN |
 | 19 | Reactivar el Substack (tu activo de escritora; pausa desde el 8 sep) | Pendiente | ¿Retomar con un ritmo bajo (quincenal)? | Carrusel y artículo siguen en pausa |
 | 20 | Descriptor "escritora y asesora" vs. "asesora" | Pendiente | Confirmar | |
