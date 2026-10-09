@@ -3,6 +3,8 @@
 Basado en la lectura completa de tu eBook (única muestra de escritura disponible hasta ahora). Se actualiza con posts, artículos de Substack y audios.
 
 ## Posicionamiento
+**Decisión de Karina (9 oct 2026):** el énfasis público es **reinventarse como escritora**; la asesoría es un servicio acotado que lo sostiene y le da material, no la identidad principal. Más de quince años de experiencia; no se menciona el cierre de su práctica.
+
 - **Escritora y pensadora:** ideas sobre dinero, poder y autonomía, y sobre por qué cambiar las leyes no basta si no cambian las costumbres (pp. 11–12).
 - **Abogada que traduce:** derecho societario y fiscal aplicado a emprendedoras, en Costa Rica.
 - **Creadora de herramientas:** ejemplos, plantillas y preguntas para decidir mejor.

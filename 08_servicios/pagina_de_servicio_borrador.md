@@ -4,19 +4,19 @@ Estado: **Borrador para tu aprobación.** Decisiones marcadas con [?]. Voseo pro
 
 ---
 
-## Karina Alvarado, asesora
-**Asesoría para emprendedoras y sociedades en Costa Rica**
+## Karina Alvarado
+**Escritora y asesora · Dinero, derecho y autonomía de las mujeres**  [?: "escritora y asesora" o solo "asesora"]
 
-Veinte años acompañando negocios y patrimonios. Explico la parte legal de emprender en lenguaje claro, para que decidas con información y no por apuro. [?: confirmar "veinte años"; tu libro dice "más de quince"]
+Estoy reinventándome como escritora. Escribo sobre dinero, derecho y autonomía de las mujeres: soy autora de *Mujeres generándose riqueza: Manual para emprendedoras* (eBook en Amazon) y escribo mi newsletter del mismo nombre.
 
-Escribo sobre dinero, derecho y autonomía de las mujeres. Soy autora de *Mujeres generándose riqueza: Manual para emprendedoras* (eBook en Amazon).
+También trabajo como asesora de emprendedoras y sociedades en Costa Rica. Más de quince años acompañando negocios y patrimonios me enseñaron que casi todo se puede explicar en lenguaje claro, para que decidas con información y no por apuro.
 
 ### Servicios
 
 **1. Constituir tu sociedad y arrancar con orden**
 Para quien quiere formalizar un negocio y no sabe si le conviene una S.A., una S.R.L. o seguir a su nombre.
 - Sesión para elegir la figura y conversar el patrimonio personal y el del negocio.
-- Constitución de la sociedad (acto notarial) e inscripción. [?: wording sobre tu calidad de notaria; el instrumento la lleva por ley]
+- Constitución de la sociedad e inscripción. [?: ver nota de calidad sobre cómo se identifica quien autoriza el acto]
 - Sesión de arranque (1,5 h): libros legales, representación, obligaciones del primer año y lista de permisos.
 - **Honorarios: ₡317.625** (sin IVA). Timbre del Colegio de Abogados y derechos de registro aparte. Pago anticipado.
 - Plazo: [__ días hábiles] desde recibidos los datos.
@@ -58,7 +58,9 @@ Esta página es información general sobre Costa Rica y no constituye asesoría 
 - [x] Sin promesas de resultado ni descuentos.
 - [x] Honorarios informados; no inferiores al mínimo.
 - [x] Descargo territorial y no-asesoría.
-- [ ] [?] "veinte años" vs. "más de quince".
-- [ ] [?] Cómo mencionar tu calidad de notaria sin contradecir tu decisión de presentarte como "asesora".
-- [ ] [?] Plazos y horas: son mis estimaciones.
+- [x] "Más de quince años" (decidido 9 oct).
+- [x] No se menciona el cierre de la práctica (decidido 9 oct).
+- [ ] [?] **Constitución de sociedades:** por decisión tuya no se menciona tu calidad de notaria. Pero el acto de constitución lo autoriza una notaria. Si la página ofrece constituir y no dice quién autoriza el acto, puede inducir a error. Mínimo recomendado: identificarlo en la propuesta y la carta de encargo antes de cobrar; mejor, una línea en la página. Verificá con el Colegio y la Dirección Nacional de Notariado qué se exige en publicidad. Alternativa: publicar solo los servicios 2 y 3 y ofrecer el 1 "a consulta".
+- [ ] [?] "Escritora y asesora" como descriptor.
+- [ ] [?] Horas y plazos: son mis estimaciones. Ver explicación en el chat; decime cuánto te toma de verdad cada servicio.
 - [ ] [?] Tu dirección o ámbito: si trabajás virtual, no hace falta dirección pública.

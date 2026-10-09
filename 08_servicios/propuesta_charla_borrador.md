@@ -11,6 +11,6 @@
 5. Ordená tus papeles: libros legales, actas y reportes.
 6. Preguntas generales (no asesoría de casos).
 **Material:** presentación y una lista de verificación de una página.
-**Condiciones:** [?: gratuita / con honorarios; confirmar reglas del Colegio y arancel]. Aviso: información general, no asesoría.
+**Condiciones:** gratuita (decidido 9 oct), sin venta de servicios en la charla. [?: confirmá con el Colegio que una charla educativa gratuita es admisible como publicidad]. Aviso: información general, no asesoría. Presentada como autora y escritora.
 **Beneficio para la organización:** contenido útil para sus emprendedoras, sin costo de producción.
 **Siguiente paso:** una reunión de 20 minutos para definir fecha y público.
