@@ -1,0 +1,19 @@
+indicador,tipo,fuente,linea_base,meta_30d,meta_60d,meta_90d,notas
+Seguidores Instagram,audiencia,Insights IG,n/d,definir con línea base,definir,definir,No optimizar solo seguidores
+Seguidores Facebook,audiencia,Insights FB,n/d,definir,definir,definir,
+Conexiones/seguidores LinkedIn,audiencia,LinkedIn analytics,n/d,definir,definir,definir,
+Suscriptores Substack,audiencia,Substack,n/d,definir,definir,definir,Indicador clave
+Alcance medio por pieza (IG),alcance,Insights IG,n/d,definir,definir,definir,
+Tasa de guardados/compartidos,interacción,Insights,n/d,definir,definir,definir,Más útil que likes
+Visitas al perfil,intención,Insights,n/d,definir,definir,definir,
+Clics a Amazon,intención,Enlace con UTM/Linktree,n/d,definir,definir,definir,
+Clics a formulario de servicios,intención,Enlace con UTM,n/d,definir,definir,definir,
+Consultas comerciales recibidas,comercial,Registro propio,n/d,definir,definir,definir,
+Consultas calificadas,comercial,Registro propio,n/d,3 (umbral E1),definir,definir,
+Clientes nuevos (servicios),comercial,Registro propio,n/d,1 (umbral E2),definir,definir,
+Ventas eBook,comercial,Panel KDP,n/d,definir,definir,definir,No atribuir a una pieza sin evidencia
+Inscriptos lista de espera guía,validación,Substack/formulario,n/d,definir,definir,definir,
+Ingresos totales,ingresos,Registro propio,n/d,definir,definir,definir,
+Ingresos recurrentes confirmados,ingresos,Registro propio,0 (hasta confirmar),definir,definir,definir,
+Horas semanales de marketing,esfuerzo,Registro propio,n/d,definir,definir,definir,
+Ingreso por hora de marketing,rentabilidad,Calculado,n/d,definir,definir,definir,Revisión mensual
