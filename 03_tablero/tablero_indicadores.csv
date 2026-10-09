@@ -8,9 +8,9 @@ Tasa de guardados/compartidos,interacción,Insights,n/d,definir,definir,definir,
 Visitas al perfil,intención,Insights,n/d,definir,definir,definir,
 Clics a Amazon,intención,Enlace con UTM/Linktree,n/d,definir,definir,definir,
 Clics a formulario de servicios,intención,Enlace con UTM,n/d,definir,definir,definir,
-Consultas comerciales recibidas,comercial,Registro propio,n/d,definir,definir,definir,
+Consultas comerciales recibidas,comercial,Registro propio,0 (empieza de cero),definir,definir,definir,
 Consultas calificadas,comercial,Registro propio,n/d,3 (umbral E1),definir,definir,
-Clientes nuevos (servicios),comercial,Registro propio,n/d,1 (umbral E2),definir,definir,
+Clientes nuevos (servicios),comercial,Registro propio,0 (empieza de cero),1 (umbral E2),definir,definir,
 Ventas eBook (pedidos 30 días al 9-oct-2026),comercial,Panel KDP,0,definir,definir,definir,No atribuir a una pieza sin evidencia
 Inscriptos lista de espera guía,validación,Substack/formulario,n/d,definir,definir,definir,
 Ingresos totales,ingresos,Registro propio,n/d,definir,definir,definir,
@@ -19,3 +19,6 @@ Horas semanales de marketing,esfuerzo,Registro propio,n/d,definir,definir,defini
 Ingreso por hora de marketing,rentabilidad,Calculado,n/d,definir,definir,definir,Revisión mensual
 Páginas KENP leídas (30 días al 9-oct-2026),comercial,Panel KDP,0,definir,definir,definir,
 Artículos publicados en Substack (acumulado al 9-oct-2026),contenido,Substack,4 (último 8-sep-2026),definir,definir,definir,
+Mensajes personales enviados,actividad,Registro propio,0,100,200,300,Meta de proceso del plan desde cero
+Conversaciones reales con aliados/organizaciones,actividad,Registro propio,0,15-20,definir,definir,
+Honorarios sin IVA ni timbres,ingresos,Registro propio,0,definir,definir,definir,Meta final: 2200000 CRC/mes

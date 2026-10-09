@@ -1,6 +1,6 @@
 # Meta de ingresos: ₡100.000 por día
 
-Definición pendiente: ¿bruto o neto de costos? ¿por día calendario o hábil? Los cálculos son **aritmética**, no una promesa ni un dato de mercado.
+Definición (9 oct): ₡100.000 **netos** por día = **honorarios sin IVA y sin timbres**. Costos operativos ≈ US$2.000/mes (≈ ₡1.000.000 si el dólar ronda ₡500; verificar), cubiertos por la meta. Los cálculos son **aritmética**, no una promesa ni un dato de mercado. Empieza de cero (práctica cerrada hace dos años): ver `plan_30_dias_desde_cero.md`.
 
 | Base | Meta mensual | Meta anual |
 |---|---|---|
