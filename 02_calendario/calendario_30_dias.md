@@ -1,3 +1,5 @@
+> **EN PAUSA (9 oct 2026):** Karina pidió dejar de lado el carrusel y el artículo de la semana 1. El calendario queda como propuesta; se reactiva cuando ella lo indique.
+
 # Calendario inicial — 12 oct a 8 nov 2026 (v0.2)
 
 Basado en el archivo de ideas del eBook (`01_identidad_editorial/archivo_de_ideas.md`, números `#`). Ritmo realista: **3 publicaciones sociales + 1 artículo por semana**. Todo es propuesta hasta que lo apruebes; **nada está programado**.
