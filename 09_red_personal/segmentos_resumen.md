@@ -15,3 +15,5 @@ Fuente: lista de 163 conexiones pegada por Karina el 9 oct 2026. Los nombres y e
 Segmentos del Grupo 1: escritura y medios (3), educación financiera, cámaras y redes de emprendedoras (6), aliados contables y de herramientas (4).
 Hallazgos: pocas conexiones son emprendedoras o clientas directas; hay buen acceso a aliados contables, cámaras, medios y personas del mundo editorial. Esto favorece alianzas, charlas y la parte de escritora. Para clientas hay que ampliar la red.
 Pendiente: que Karina marque cuáles son **exclientas o clientas actuales** (se excluyen del primer ciclo) y cuáles conoce personalmente.
+
+Actualización 9 oct: Karina conoce personalmente a un colega, a una amiga (sin actividad laboral actual) y tiene un vínculo indirecto con otra persona; **al resto solo los conoce por la red**. Implicación: el primer ciclo es de contactos casi fríos con mensaje honesto y sin presión; esperar pocas respuestas y apoyarse en charlas y alianzas.
