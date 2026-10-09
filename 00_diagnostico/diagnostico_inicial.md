@@ -7,12 +7,15 @@ Fecha: 2026-10-09 · Basado en el brief y en la **lectura completa del eBook**. 
 - Hay problemas de calidad en el eBook que conviene corregir antes de impulsarlo (`05_activos_marca/hallazgos_ebook_control_de_calidad.md`).
 - No pude acceder al Substack (el entorno bloquea ese dominio) ni a Meta Business Suite (requiere tu sesión; además no corresponde que yo entre a tu cuenta). Necesito capturas o exportaciones.
 
+## Contexto nuevo (Substack)
+Karina cerró su oficina de veinte años en circunstancias que no eligió; sus servicios son un reinicio, no una continuación. Importa para: (1) la meta de ingresos, (2) la lista de ex clientas (cuidar deberes de confidencialidad y reglas de contacto), (3) que ya no existe un nombre de despacho que respalde la oferta: pendiente definir marca profesional.
+
 ## A. Inventario de activos y canales
 | Activo | Estado verificado | Falta |
 |---|---|---|
 | eBook *Mujeres generándose riqueza: Manual para emprendedoras* | PDF de 81 pp., © 2025; ilustración y maquetación de Áurea Empresarial; 6 bloques temáticos (base legal, finanzas, presupuesto, reportes, estrategia fiscal, brechas fintech) | Enlace Amazon, precio, ventas/regalías, reseñas |
 | Experiencia | "Más de quince años" en derecho y asesoría de negocios, con contadores (p. 10); talleres y blog previos (p. 12) | Ámbito exacto de práctica, tarifa, ¿notaria?, capacidad |
-| Substack | Enlace recibido (`adstringoverbera340984.substack.com`); **no accesible** desde aquí | Nombre, suscriptores, artículos, tasa de apertura |
+| Substack | Texto de 3 de 4 artículos recibido (23 ago–8 sep); sin métricas; ver `analisis_substack.md` | Suscriptores, aperturas, texto del 8 sep |
 | Facebook | Página recibida por ID; **no accesible** | Seguidores, alcance, mejores publicaciones |
 | Instagram / LinkedIn | Sin datos | Usuarios, estadísticas 30–90 días |
 | Identidad visual | Portada: malva `#9A7D91`, durazno `#F4BE96`, turquesa claro `#CDE9E8`, gris carbón `#333`; interior con títulos morado | Fuentes originales de la maquetación |

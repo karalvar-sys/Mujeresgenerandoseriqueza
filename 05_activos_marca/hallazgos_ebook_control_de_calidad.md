@@ -8,7 +8,7 @@ Por qué importa: el eBook es tu activo central. Cada publicación que lo cite h
 | Pág. | Hallazgo | Acción sugerida |
 |---|---|---|
 | 3 | La página de derechos tiene **marcadores sin completar**: `[Número de ISBN]`, `[Mes y año]`, `[Nombre de la editorial]`, `[Dirección…]`, `[Correo…]`, `[Sitio web…]`, `[Karina Alvarado]` | Completar o eliminar antes de la próxima carga |
-| 3 | Dice *"El contenido de esta obra es ficticio y cualquier semejanza con personas… es pura coincidencia"*. Es texto de plantilla y **contradice** una obra de no ficción con normas y casos reales | Reemplazar por una nota de alcance y descargo (ver C) |
+| 3 | Dice *"El contenido de esta obra es ficticio y cualquier semejanza con personas… es pura coincidencia"*. **Corrección:** antes lo traté como error de plantilla; Karina aclaró que lo que puso en el libro es ficticio. Queda **pendiente precisar el alcance**: si se refiere a los casos, personajes y cifras de ejemplo (Hipotética S.A., Delicias de la Finca, las amigas de la cerámica) o también a normas, datos y relatos personales. Una frase que dice "todo es ficticio" puede leerse como que las normas tampoco son reales | Decidir redacción exacta del descargo (ver C) |
 | 20 | La **tabla S.A. vs. S.R.L. parece tener contenido cruzado entre columnas**: bajo "Sociedad Anónima" dice que en la S.R.L. los socios responden hasta sus cuotas; bajo "Formalidades", la columna S.A. dice "se puede dirigir con un gerente, menos libros legales" (descripción de la S.R.L.) y la columna S.R.L. dice "la constitución de una S.A. es más compleja" | Rehacer la tabla con una fila por atributo y una celda por figura |
 | 19–20 | Dos veces se afirma que en la S.A. se requieren "cuatro miembros de la junta directiva como mínimo" | Verificar contra el Código de Comercio vigente |
 | 66–67 | Montos del régimen simplificado y exoneración de renta de personas físicas son **cifras de 2024** (salario base ₡462.200). El libro ya avisa en p. 77 que Hacienda migró a TRIBU | Actualizar cifras o marcar "vigentes a 2024" en el texto |
@@ -27,7 +27,8 @@ Por qué importa: el eBook es tu activo central. Cada publicación que lo cite h
 | 10–12 | Dato del BCCR: trabajo doméstico no remunerado = ₡9,6 billones en 2022 | Verificar cifra y unidad en el enlace que citás |
 
 ## C. Sugerencias de redacción para la página de derechos (borrador, para tu edición)
-> © 2025 Karina Alvarado. Todos los derechos reservados. [...] Esta obra es de carácter informativo y educativo, se refiere a la legislación de Costa Rica vigente a la fecha de redacción y no constituye asesoría jurídica, contable ni financiera individual. Los ejemplos con personas y empresas son ilustrativos.
+Si lo ficticio son solo los ejemplos, el descargo debería decirlo expresamente para no restar valor a las normas y datos reales del libro. Ejemplo:
+> © 2025 Karina Alvarado. Todos los derechos reservados. [...] Esta obra es de carácter informativo y educativo, se refiere a la legislación de Costa Rica vigente a la fecha de redacción y no constituye asesoría jurídica, contable ni financiera individual. Los personajes, empresas, casos y cifras utilizados como ejemplos son ficticios; cualquier semejanza con la realidad es coincidencia.
 
 ## D. Uso en contenido
 Hasta que verifiques la sección B, **no se reutilizan en publicaciones** las cifras, tarifas ni afirmaciones de responsabilidad personal del libro como hechos. Se usan preguntas, ejemplos y razonamiento.

@@ -19,6 +19,9 @@ Fuente: tu propio libro (páginas entre paréntesis). Son **tus** ideas; el edit
 | 13 | **Brechas fintech, estafas y propiedad intelectual** (p. 78) | ¿Qué riesgo nuevo trae cada herramienta que adoptamos? | Substack, LinkedIn | 3, 5 | Medio | Por producir |
 | 14 | **Por qué escribo**: "pago de una deuda personal", niña lectora de columnas de hombres (pp. 12–13) | ¿Quién escribe sobre dinero y desde dónde? | Texto de presentación Substack | 6 | Marca de autora | Por producir · Pedirte permiso de uso |
 | 15 | **Acuerdos prematrimoniales** como herramienta contra la brecha (p. 79) | ¿Qué conversación económica evitamos antes de casarnos? | Substack | 1, 5 | Requiere confirmar tu ámbito de práctica | Pendiente de tu criterio |
+| 16 | **Arrancar no es el obstáculo; consolidar sí** (Substack, 28 ago) | ¿Por qué las mujeres llegan al arranque pero no al negocio consolidado? | Serie Substack, carrusel con cifras verificadas | 1, 2 | **Alto: es el hilo que conecta con los tres servicios** | Publicada; reutilizar tras verificar cifras |
+| 17 | **Qué se enseña a las mujeres a culparse** (Substack, 23 ago) | ¿Qué aprendimos a buscar en nosotras que no dependía de nosotras? | Ensayo corto, post LinkedIn | 5, 6 | Marca de autora | Publicada |
+| 18 | **La consciencia social va más lenta que la ley** (Substack, 23 ago) | ¿Qué falta cuando la ley ya nos declara iguales? | Cita para carrusel, ensayo | 5 | Marca | Publicada |
 
 ## Preguntas que te hago antes de usar estas ideas
 - ¿Querés que sigan firmadas con tu experiencia en primera persona ("en mi práctica he visto…") en todos los canales, o solo en Substack y LinkedIn?

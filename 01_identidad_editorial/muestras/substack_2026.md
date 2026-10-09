@@ -1,0 +1,34 @@
+# Muestras de escritura — Substack "Mujeres generándose riqueza"
+
+Textos pegados por Karina el 2026-10-09 (publicados en su Substack). Se conservan como corpus de voz. El cuarto artículo (8 sep 2026, "¿Por qué hablar de dinero y mujeres es hablar de feminismo?") **no fue incluido**: falta el texto.
+
+## 1. El libro (23 ago 2026) — "Por qué escribí este libro y por qué cerré mi oficina de veinte años"
+Hace un tiempo cerré la oficina en la que dí servicios durante veinte años. Terminé de escribir el libro y ahora me gustaría explicar las razones de porqué lo escribí, porque estoy convencida de que nos atañen a todas.
+
+En el libro cuento que yo empecé a trabajar desde que salí del colegio en el ámbito de los servicios, en un negocio de mi papá. Mi ingreso al mundo laboral tenía más números de los que yo estaba confiada en poder entender. Experimentaba inseguridad cada vez que tenía que ver temas de finanzas y eso era muy seguido. Con el paso del tiempo y ya con años de experiencia encima, no me terminaba de sentir segura, siempre había una sensación de que tal vez algo se me escapaba o que había algo que nuevo que aún no conocía.
+
+También noté algo que me inquietó profundamente: muchas mujeres, incluso mujeres con educación, con experiencia, con negocios funcionando, tenían muy poca información sobre cómo gestionar su propio dinero y su propio patrimonio. No porque fueran descuidadas. No es lo mismo generar ingresos que consolidar un patrimonio. Con el tiempo entendí que esa brecha no era casualidad — era el resultado de estructuras y de creencias que, durante generaciones, limitaron nuestra relación con la riqueza y con el poder económico.
+
+Y no hablo desde afuera. Hablo también desde mi propia historia: crecí queriendo ser escritora, leyendo columnas de opinión firmadas casi siempre por hombres, preguntándome desde niña por qué las cosas eran como eran. Ese cuestionamiento nunca se me quitó — simplemente encontró un lugar profesional donde vivir: el derecho y los negocios.
+
+Después de veinte años acompañando negocios y patrimonios, mi oficina cerró en circunstancias que no elegí y que no dependieron de mí. Me tomó tiempo entender que eso no tenía nada que ver con mi trabajo ni con algo que yo hubiera hecho mal — y quiero decirlo así de claro, porque a las mujeres nos enseñan con demasiada facilidad a buscar en nosotras mismas la culpa de cosas que no elegimos.
+
+Ese cierre no fue un final, fue una pausa necesaria. Y en esa pausa nació este libro: 'Mujeres Generándose Riqueza'. No lo escribí como un manual técnico frío — lo escribí como el libro que me hubiera gustado tener a mano en cada una de esas consultas, para dárselo a cada mujer que llegaba a mi oficina sintiendo que 'los temas de plata no eran para ella'.
+
+El libro recorre, paso a paso, todo lo que me hubiera gustado que alguien me explicara antes: cómo proteger el patrimonio personal desde el día uno de un negocio, cómo elegir entre emprender a tu nombre o formar una sociedad, cómo armar un presupuesto que de verdad se sostenga, cómo leer tus números sin ser contadora, cómo perderle el miedo a los impuestos, y hacia dónde va todo esto con la tecnología financiera que viene.
+
+Con el tiempo entendí que lo que yo viví no era solo mi historia — era un patrón que se repetía, con distintas caras, en cada mujer que se sentaba frente a mí en consulta.
+
+Pero más allá de lo técnico, me interesa la conversación y la exposición de nosotras en espacios donde podamos exponer nuestros miedos e inseguridades sin que por esto nuestros aportes sean subestimados y desestimados. Hace muy poco tenemos acceso a cuentas bancarias, créditos, tarjetas, contratos. La visión del mundo, las prácticas, los usos y costumbres que son tan naturales del comercio, todavía responden a un modelo masculino. Una amiga me ha comentado varias veces: en los años cincuenta la costumbre era que el hombre era el proveedor del hogar, será por esta razón que nuestros salarios son menores a pesar de que cada vez más mujeres son proveedoras únicas de sus hogares?
+
+Estudiamos y trabajamos en un medio que hoy por hoy se hace de la vista gorda al valor económico de los servicios domésticos y de cuidado, es decir, se asigna un valor no con criterios objetivos sino con esa visión del mundo que no responde al día a día actual y que nos perpetúa en una condición ausente de equidad.
+
+Todo esto lo expongo para que cada vez más mujeres puedan identificar cuando están en una situación en la que, las pueden despojar de lo que han construido con su esfuerzo. Existen herramientas para evitarlo - muchas veces no las conocemos.
+
+Se puede trabajar toda una vida entera y aun así no lograr un patrimonio propio, si nadie nos explicó cómo hacerlo. Esa explicación es lo que faltaba. Empecemos por ahí.
+
+## 2. La razón real por la que a las mujeres no nos enseñaron de dinero (23 ago 2026)
+(Resumen estructural; texto completo en la fuente.) Parte de la definición de patriarcado según María Antonieta Solórzano: del nomadismo al sedentarismo, la escasez percibida, la acumulación y la defensa de lo acumulado como "semilla del patriarcado". Aclara que la primera parte tiene respaldo académico pero es un debate abierto (Engels 1884; Lerner, *The Creation of Patriarchy*, 1986; Scott, *Against the Grain*, 2017). Cierra con cuatro ideas: no es que a las mujeres "se nos den peor" los números, sino estructura e historia; el acceso a cuentas, crédito y contratos fue tardío "por mandato legal o de la tradición"; el modelo del hombre proveedor dejó el trabajo doméstico y de cuidado sin valor económico; el conocimiento financiero entre mujeres circuló de manera informal ("la mesa de la cocina"). Frase final: "La consciencia social cambia mucho más lento que las leyes. Ya tenemos la legislación que nos declara iguales; lo que todavía falta es que el mundo nos crea."
+
+## 3. La brecha que se abre entre emprender y consolidar (28 ago 2026)
+(Resumen estructural.) Abre con la película *Violeta al fin* usada en sus talleres (ex marido que ofrece en garantía la casa heredada de ella). Cruza dos informes: GEM Costa Rica 2024/2025 (UCR, Cámara de Industrias, Sistema de Banca para el Desarrollo) e IV Informe de Brechas del INAMU. Tesis: **"Arrancar no es, para las mujeres costarricenses, el obstáculo principal; sostener y consolidar sí lo es."** Cifras citadas: 5,05% mujeres vs. 5,25% hombres en inicio; 1,5% vs. 2,5% en negocios consolidados (> 3,5 años); 27% del crédito del SBD a mujeres a dic. 2024; 52% del capital semilla; 15,6% de fincas a nombre de mujeres; posición 43 de 56 en el Índice de Contexto Emprendedor; 36,1% de miedo al fracaso. Tres obstáculos entre emprender y consolidar: (1) **formalización** (seguir como persona física y no separar patrimonios), (2) **patrimonio personal como garantía**, (3) **reportes financieros ordenados**.
