@@ -1,103 +1,98 @@
-# Diagnóstico inicial — Etapa 1
+# Diagnóstico inicial — v0.2
 
-Fecha: 2026-10-09 · Estado: **v0.1, basado solo en el brief**. Todo lo marcado como `HIPÓTESIS` debe validarse con datos reales.
+Fecha: 2026-10-09 · Basado en el brief y en la **lectura completa del eBook**. Sigue sin haber métricas de canales: todo lo marcado `HIPÓTESIS` debe validarse.
 
-> Hallazgo de partida: el repositorio estaba vacío. No hay muestras de escritura, métricas, portada ni textos del eBook. Una búsqueda pública del título no devolvió la ficha de Amazon (puede ser limitación del buscador). Por eso no hay perfil de audiencia con datos ni línea base: solo hipótesis explícitas.
+## Qué cambió respecto a v0.1
+- El eBook mostró que tu experiencia real es **derecho societario y fiscal práctico para emprendedoras en Costa Rica** (sociedades, libros legales, juntas directivas, permisos, obligaciones de sociedades activas e inactivas, regímenes tributarios), con una mirada crítica de género. Las ofertas se rediseñaron sobre eso.
+- Hay problemas de calidad en el eBook que conviene corregir antes de impulsarlo (`05_activos_marca/hallazgos_ebook_control_de_calidad.md`).
+- No pude acceder al Substack (el entorno bloquea ese dominio) ni a Meta Business Suite (requiere tu sesión; además no corresponde que yo entre a tu cuenta). Necesito capturas o exportaciones.
 
 ## A. Inventario de activos y canales
-
-| Activo | Estado | Dato que falta |
+| Activo | Estado verificado | Falta |
 |---|---|---|
-| eBook *Mujeres generándose riqueza: Manual para emprendedoras* (Amazon) | Publicado | Enlace, precio, ISBN/ASIN, fecha, reseñas, ventas/regalías, archivo de portada, manuscrito |
-| Experiencia jurídica en Costa Rica | Activo principal | Áreas reales de práctica, años, tipo de clientes que querés más/menos |
-| Instagram | Existe | Seguidores, alcance 30 días, publicaciones top, usuario |
-| Facebook | Existe | Seguidores, alcance, tipo de audiencia (¿página o perfil?) |
-| LinkedIn | Existe | Conexiones, impresiones, ¿perfil personal o página? |
-| Substack | Existe | Suscriptores, tasa de apertura, artículos publicados |
-| Ideas, reflexiones, experiencias | Sin inventariar | Notas, audios, borradores (**insumo más valioso**) |
-| Tiempo y presupuesto | Desconocido | Horas/semana disponibles, presupuesto mensual |
+| eBook *Mujeres generándose riqueza: Manual para emprendedoras* | PDF de 81 pp., © 2025; ilustración y maquetación de Áurea Empresarial; 6 bloques temáticos (base legal, finanzas, presupuesto, reportes, estrategia fiscal, brechas fintech) | Enlace Amazon, precio, ventas/regalías, reseñas |
+| Experiencia | "Más de quince años" en derecho y asesoría de negocios, con contadores (p. 10); talleres y blog previos (p. 12) | Ámbito exacto de práctica, tarifa, ¿notaria?, capacidad |
+| Substack | Enlace recibido (`adstringoverbera340984.substack.com`); **no accesible** desde aquí | Nombre, suscriptores, artículos, tasa de apertura |
+| Facebook | Página recibida por ID; **no accesible** | Seguidores, alcance, mejores publicaciones |
+| Instagram / LinkedIn | Sin datos | Usuarios, estadísticas 30–90 días |
+| Identidad visual | Portada: malva `#9A7D91`, durazno `#F4BE96`, turquesa claro `#CDE9E8`, gris carbón `#333`; interior con títulos morado | Fuentes originales de la maquetación |
 
 ## B. Audiencia: respaldado vs. hipótesis
-
-**Respaldado por datos:** nada todavía.
-
-**Hipótesis (a validar):**
-- H1. Parte de tu audiencia es costarricense (compatible con servicios jurídicos); parte es latinoamericana (solo contenido general y productos editoriales). *Validar: Insights de IG/FB por país.*
-- H2. Las emprendedoras de servicios y negocios pequeños (informales o recién formalizados) tienen dudas recurrentes sobre contratos, formalización y separación patrimonial. *Validar: preguntas reales en DMs, comentarios y clientes pasados.*
-- H3. Hay interés en la conversación sobre dinero y poder en la pareja/familia, más allá del emprendimiento. *Validar: comparar alcance y guardados entre temas.*
+**Respaldado por el libro (no por datos de audiencia):** público objetivo declarado = emprendedoras y mujeres que gestionan patrimonio; tema legal 100% Costa Rica; tuteo, tono de "amiga lectora".
+**Sin datos:** edad, país, ingresos, intereses, quién compra el eBook, quién sigue cada canal.
+**Hipótesis:**
+- H1. Una parte relevante de tu audiencia en redes es costarricense y puede contratar servicios; el resto de Latinoamérica consume ideas y productos, no servicios. *Validar con Insights por país.*
+- H2. Los temas societarios concretos ("libros legales", "sociedad inactiva", "aceptar un cargo") convocan menos que los temas de dinero y género en alcance, pero **convierten mejor en consultas**. *Validar con E1/E4.*
+- H3. El cruce "ley + género + dinero" (p. ej. trabajo doméstico no remunerado y art. 35 del Código de Familia, pp. 39–40) tiene más potencial de compartidos y suscripción. *Validar con E3.*
 
 ## C. Posicionamiento y diferenciación
+**Evidencia de tu voz en el libro:** primera persona con anécdotas (p. 10), preguntas directas al lector ("¿por qué si la ley nos garantiza la igualdad hay tantos sesgos?"), ejemplos con personajes (las amigas de la cerámica, Delicias de la Finca), metáforas propias ("es como ser fiadora…", "recetas secretas de la familia"), paso de la ley a "en la práctica", y la tesis de que el cambio legal no basta sin cambio personal y cultural (pp. 11–12).
 
-Espacio propuesto: **la abogada-autora que explica cómo las condiciones jurídicas y económicas moldean la autonomía de las mujeres**, con rigor y sin dogma.
+**Espacio diferencial:** *la abogada que explica cómo las reglas de las sociedades, los impuestos y la ley de familia moldean la autonomía económica de las mujeres, con ejemplos concretos y una mirada crítica.* Poco común en Costa Rica combinar derecho societario aplicado + lectura de género. `HIPÓTESIS` hasta hacer un mapeo competitivo (semana 2).
 
-- Diferencial posible: pensamiento crítico + lectura jurídica concreta + economía cotidiana. Las referencias creativas (Herrera, Perel, Brown) suelen quedarse en lo cultural/relacional; lo jurídico-económico con criterio de abogada es un nicho menos poblado. `HIPÓTESIS`: no he hecho un mapeo competitivo con datos; hacerlo es una tarea de la semana 2.
-- Riesgo: caer en "finanzas personales para mujeres" genérico, donde hay mucha competencia. La tesis propia tiene que aparecer en cada pieza.
-- Frase de posicionamiento provisoria (para que la corrijas): *"Escribo sobre dinero, derecho y autonomía de las mujeres, con la precisión de una abogada y la curiosidad de quien se hace preguntas."*
+**Riesgos:** (1) quedarse en "cómo se constituye una S.A." (informativo, comoditizable); (2) que errores del libro dañen la autoridad; (3) el libro mezcla finanzas contables y derecho: tu autoridad más fuerte está en lo jurídico; lo contable conviene tratarlo con contadoras aliadas.
 
 ## D. Vías de ingreso
-
-| Vía | Horizonte | Tiempo a primera venta | Esfuerzo | Riesgo | Estado |
+| Vía | Horizonte | Tiempo a 1ª venta | Esfuerzo | Riesgo | Veredicto |
 |---|---|---|---|---|---|
-| Servicios jurídicos de alcance cerrado (CR) | Corto | Días–semanas | Medio | Bajo–medio (ética publicitaria, clientes inadecuados) | **Prioridad 1** |
-| Ventas del eBook | Corto/medio | Inmediato pero bajo volumen | Bajo | Bajo | Mantener; no depender |
-| Guía/plantilla descargable de pago | Medio | 3–6 semanas | Bajo–medio | Medio | Validar con lista de espera |
-| Taller breve en vivo (LatAm, contenido general) | Medio | 4–8 semanas | Medio | Medio | Validar tras la guía |
-| Newsletter de pago | Largo | Meses | Medio | Alto si no hay base | **No ahora**; se evalúa con ≥ umbral de suscriptores y señales de demanda |
-| Charlas, alianzas, licencias | Medio | Variable | Medio | Bajo | Oportunista: cámaras, incubadoras, redes de emprendedoras |
-| Nuevo libro | Largo | Meses | Alto | Alto | Solo cuando una idea demuestre tracción en Substack |
+| Chequeo de cumplimiento societario (servicio, CR) | Corto | Días–semanas | Medio | Bajo–medio | **Prioridad 1** |
+| Revisión previa a asumir un cargo en una sociedad (servicio, CR) | Corto | Semanas | Medio | Medio (conflicto de interés; ver más abajo) | **Prioridad 2** |
+| Corrección del eBook + reedición | Corto | 2–4 semanas | Bajo–medio | Bajo | **Prioridad inmediata (no genera ingreso directo; protege el activo)** |
+| Kit de libros legales y actas modelo (digital, CR) | Medio | 4–6 semanas | Medio | Medio | Validar con lista de espera |
+| Taller breve (CR primero; LatAm solo contenido general) | Medio | 6–8 semanas | Medio | Medio | Después del kit |
+| Ventas del eBook | Continuo | — | Bajo | Bajo | Mantener; no depender |
+| Newsletter de pago | Largo | Meses | Medio | Alto sin base | **No ahora** |
+| Charlas con cámaras, incubadoras, redes de emprendedoras | Medio | Variable | Medio | Bajo | Oportunista; contacto personal |
+| Nuevo libro | Largo | Meses | Alto | Alto | Solo si una idea del archivo demuestra tracción |
 
-Clasificación de ingresos hoy: **confirmados = ninguno documentado**; puntuales = regalías del eBook (monto desconocido); hipotéticos = todo lo demás.
+Ingresos **confirmados**: ninguno documentado. **Puntuales**: regalías del eBook (monto desconocido). **Hipotéticos**: el resto.
 
 ## E. Tres ofertas iniciales
+Precios: **no los fijo sin tu tarifa**. Fórmula: `(horas estimadas × tarifa objetivo) + margen de riesgo`, contrastada con la pauta de honorarios del Colegio de Abogados y con el mercado (a verificar). Todo se cobra por **paquete cerrado**.
 
-> Los precios **no se fijan aquí**: dependen de tu tarifa, del arancel/pautas del Colegio de Abogados y del mercado local, que debemos verificar con fuente oficial. Cada oferta tiene una fórmula para calcularlo.
+### Oferta 1 — Chequeo de cumplimiento societario ("¿Tu sociedad está al día?")
+- **Cliente ideal:** dueña, socia o administradora de una S.A. o S.R.L. en Costa Rica, activa o inactiva, que quiere saber si está en regla sin contratar una asesoría permanente. Incluye mujeres con una sociedad "dormida" que protege un inmueble (caso que describís en pp. 15–16, 37).
+- **Problema:** nadie sabe dónde están los libros, si las actas están asentadas, si la declaración de registro de accionistas y beneficiarios finales se presentó, o qué obligaciones tiene una sociedad inactiva.
+- **Alcance:** revisión documental (escritura, certificación de personería, libros, últimas actas) + lista de obligaciones aplicables **según tu libro, pp. 37–38, a actualizar con la normativa vigente** + informe con semáforo (al día / pendiente / urgente) + 1 llamada de 45 min.
+- **Exclusiones:** contabilidad, declaraciones de impuestos, regularizar o presentar trámites (se cotizan aparte), litigios, sociedades con actividad regulada.
+- **Plazo:** 5–7 días hábiles desde recibidos los documentos.
+- **Clientes:** carrusel y LinkedIn sobre libros legales y sociedades inactivas, contadoras aliadas, ex clientas, Substack.
+- **Cierre:** formulario con filtro (tipo de sociedad, actividad, año de constitución) → propuesta de una página → carta de encargo.
+- **Recurrencia legítima:** revisión anual; regularización posterior como servicio aparte.
+- **Riesgos:** descubrir incumplimientos graves (definir de antemano qué se hace); clientes que esperan que "arregles todo".
 
-### Oferta 1 — Revisión contractual para emprendedoras (Costa Rica)
-- **Cliente ideal:** emprendedora con negocio activo que ya tiene un contrato por firmar (alquiler, proveeduría, servicios, alianza, trabajo de un tercero) y quiere entenderlo antes.
-- **Problema:** firmar sin entender cláusulas de plazo, penalidad, exclusividad o terminación.
-- **Alcance:** revisión de **un** contrato de hasta N páginas; informe escrito con riesgos y cláusulas a negociar; 1 llamada de 30–45 min; 1 ronda de ajustes.
-- **Exclusiones:** redacción desde cero, litigio, representación en negociación, contratos de alta complejidad o cuantía fuera del rango.
-- **Plazo:** 3–5 días hábiles desde recibido el documento.
-- **Precio:** fijo por paquete = (horas estimadas × tarifa horaria objetivo) + margen de riesgo; contrastar con la pauta de honorarios vigente.
-- **Cómo encontrar clientes:** contenido de LinkedIn/IG sobre "qué mirar antes de firmar", alianzas con contadores y cámaras/redes de emprendedoras, clientes pasados.
-- **Cierre:** formulario de intake con filtro (tipo de contrato, plazo, cuantía) → respuesta en 24 h → propuesta de una página.
-- **Recurrencia legítima:** cliente que repite con nuevos contratos; recomendación solo si el cliente la ofrece espontáneamente (cuidar las reglas éticas).
+### Oferta 2 — Revisión previa a asumir un cargo en una sociedad
+- **Cliente ideal:** mujer a quien le proponen ser presidenta, tesorera, gerente o representante legal de una sociedad, o entrar como socia.
+- **Problema:** firma sin saber qué obligaciones asume (tu idea de la fiadora, pp. 26–28).
+- **Alcance:** revisión de la escritura de constitución, estado de libros y actas, certificaciones de personería, y de las deudas con Hacienda y CCSS que pueda solicitar la propia sociedad; informe de riesgos y de cláusulas/medidas de protección a pedir; 1 llamada de 45 min.
+- **Exclusiones:** representar a otras partes, negociar por ella, asesorar a la sociedad que la propone (**conflicto de intereses**: atendés solo a la persona que pide la revisión, por escrito).
+- **Plazo:** 3–5 días hábiles.
+- **Clientes:** contenido de la primera pieza → formulario.
+- **Riesgos:** la contraparte puede ser cliente actual; definir política de conflictos antes de publicitar.
 
-### Oferta 2 — Sesión de orden jurídico preventivo para tu emprendimiento (Costa Rica)
-- **Cliente ideal:** emprendedora que opera sin forma jurídica clara o está por formalizar.
-- **Alcance:** sesión de 60–90 min + informe de 2–3 páginas: forma jurídica a considerar, separación entre patrimonio personal y del negocio, contratos mínimos, marca y puntos a consultar con contador. **Coordinación con contador** para lo tributario.
-- **Exclusiones:** constitución de sociedad y trámites (se cotizan aparte), asesoría tributaria, casos de familia.
-- **Cómo encontrar clientes:** misma línea de contenido + oferta en Substack ("¿tu negocio y tu patrimonio personal están separados?").
-- **Riesgo:** convertirse en consultoría abierta. Mitigación: alcance cerrado y entregable fijo.
+### Oferta 3 — Kit digital: libros legales y actas modelo (Costa Rica) + taller breve opcional
+- **Cliente ideal:** administradora de pyme familiar que prefiere hacerlo ella misma con buenas plantillas.
+- **Producto:** plantillas de razón inicial, registro de accionistas/cuotistas, actas de asamblea y de junta directiva (las que ya ilustrás en pp. 32–34, actualizadas y revisadas), con guía de uso y descargo.
+- **Validación:** lista de espera en Substack; **no se produce hasta tener** ≥ N inscripciones o respuestas a una encuesta de 3 preguntas.
+- **Precio:** a definir tras ver intención de compra; precio de lanzamiento y testimonial real.
+- **Recurso LatAm (hipótesis posterior):** cuaderno de presupuesto desde valores, propio (no el de Bach, p. 41), sin contenido jurídico.
 
-### Oferta 3 — Guía práctica descargable + taller breve (LatAm, contenido general)
-- **Cliente ideal:** emprendedora latinoamericana que quiere ordenar sus acuerdos y su dinero sin asesoría jurídica individual.
-- **Producto:** guía/plantilla de preguntas ("lista de verificación antes de firmar un acuerdo" o "mapa de tu relación económica con tu negocio") + taller de 60–90 min opcional. **Educativo, no asesoría**; con advertencia territorial.
-- **Validación barata:** lista de espera en Substack; si hay ≥ N inscripciones/respuestas, se produce. No se construye antes.
-- **Precio:** a definir tras ver intención de compra; arrancar con precio de lanzamiento bajo y testimonial real.
+**Orden:** corregir el eBook → Oferta 1 → Oferta 2 → lista de espera de Oferta 3.
 
-**Orden recomendado:** Oferta 1 primero (venta más rápida, alcance más acotado) → Oferta 3 en paralelo solo como lista de espera → Oferta 2 cuando 1 esté funcionando.
-
-## F. Plan de experimentos, 30 días
-
-Principio: **máximo 3 experimentos simultáneos**.
-
-| # | Hipótesis | Acción | Métrica de decisión | Umbral inicial (ajustar con línea base) |
+## F. Plan de experimentos (30 días, máx. 3 simultáneos)
+| # | Hipótesis | Acción | Métrica de decisión | Umbral inicial |
 |---|---|---|---|---|
-| E1 | Hay demanda de revisión contractual en CR | Publicar 2 piezas LinkedIn/IG sobre "antes de firmar" con enlace al formulario | Consultas calificadas | ≥ 3 consultas en 30 días = seguir; 0 = cambiar ángulo/canal |
-| E2 | Los contactos directos convierten más que los seguidores | Escribirle a 15 contactos/ex clientes/colegas con la oferta 1 (mensaje personal, no masivo) | Conversaciones, propuestas enviadas | ≥ 1 cliente = validado |
-| E3 | Substack puede captar interés propio | Un artículo largo con invitación clara a suscribirse + a la lista de espera de la guía | Suscripciones nuevas, inscriptos | Comparar con línea base de suscripciones |
-| E4 (condicional) | El formato carrusel educativo genera guardados | Alternar carrusel vs. texto-imagen en IG | Guardados + visitas al perfil por pieza | Solo si E1–E3 están corriendo |
+| E1 | Hay demanda de chequeos y revisiones previas | 2 piezas (carrusel + LinkedIn) con enlace al formulario | Consultas calificadas | ≥ 3 = seguir; 0 = cambiar ángulo |
+| E2 | Los contactos directos convierten más que los seguidores | 15 mensajes personales a ex clientas, contadoras, colegas | Conversaciones; propuestas | ≥ 1 cliente = validado |
+| E3 | Un lead magnet propio capta suscriptoras | Ofrecer un extracto de tu eBook (p. ej. "cómo se llevan los libros legales", pp. 29–33, corregido) a cambio de suscripción | Suscripciones nuevas | Comparar con línea base |
+| E4 (condicional) | El ángulo de género vs. el jurídico | Alternar tema por canal | Guardados + compartidos + clics | Solo si E1–E3 corren |
 
-Regla de corte: cualquier actividad que consuma > X horas semanales sin consultas ni suscripciones tras 4 semanas, se pausa.
-
-## J. Información que todavía necesito (breve, en orden de importancia)
-
-1. **Muestras de tu escritura**: 5–10 textos (posts, artículos de Substack, fragmentos del eBook) y 2–3 notas o audios sin pulir.
-2. **Datos de los canales**: seguidores y los Insights de los últimos 30–90 días de IG, FB, LinkedIn y Substack (capturas bastan).
-3. **El eBook**: enlace de Amazon, portada en alta resolución, índice, precio y regalías.
-4. **Disponibilidad**: horas por semana y presupuesto mensual.
-5. **Tu práctica jurídica**: qué servicios sí querés dar, cuáles no, tu tarifa horaria o rango, capacidad de clientes nuevos por mes.
-6. **Tu perfil de cliente**: ¿con qué tipo de clientas trabajaste mejor y peor?
-7. **Restricciones**: temas que no tocarías, casos que no podés usar, límites de exposición personal.
-8. **Accesos autorizados** (solo si querés): analítica, programador de publicaciones. Hasta entonces, todo queda como archivos para publicar manualmente.
+## J. Información que todavía necesito
+1. **Capturas** de estadísticas 30–90 días de Instagram, Facebook, LinkedIn y Substack (o exportación de Substack: suscriptores y aperturas).
+2. Enlace de Amazon, precio y regalías del eBook; si autorizás **reeditarlo**.
+3. Tu **tarifa** y capacidad (clientes nuevos por mes); si sos **notaria** y si podés prestar servicios notariales.
+4. Tu postura sobre conflictos de interés y qué tipo de clientas no querés.
+5. **Horas semanales** y presupuesto mensual.
+6. Si podemos usar la portada y los diseños de Áurea Empresarial en redes.
+7. Voseo o tuteo para cada canal (tu libro usa tuteo).
+8. Más textos: posts, artículos de Substack, audios.
