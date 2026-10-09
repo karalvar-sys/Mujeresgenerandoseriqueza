@@ -15,8 +15,9 @@ Solo Karina mueve algo a `Aprobado`. Actualizado: 2026-10-09.
 | 9 | Programar rutina semanal automática (lunes) | Propuesta | Autorizar que se cree una rutina que prepare el informe semanal | Prepararía borradores; no publica |
 | 10 | Paquetes A, B y C con precios a mínimos del arancel (`tarifas_arancel_y_paquetes.md`) | Propuesta | Aprobar o ajustar horas y precios | |
 | 11 | Formulario de contacto con verificación de conflictos y carta de encargo (`08_servicios/`) | Borrador para tu revisión jurídica | Revisar y aprobar | Son borradores; la revisión legal es tuya |
-| 12 | Verificaciones de compliance (colegiatura, habilitación notarial, Hacienda, CCSS, publicidad) | **Pendiente: tuyo** | Marcar cada ítem de `plan_30_dias_desde_cero.md` §1 | Sin esto no se contacta a nadie |
+| 12 | Verificaciones de compliance (colegiatura, habilitación notarial, Hacienda, CCSS, publicidad) | **Resuelto 9 oct: confirmadas por Karina** | — | Confirmación suya, no verificada por los agentes |
 | 13 | Plan de 30 días desde cero y cambio de prioridad (primero Oferta C: constitución) | Propuesta | Aprobar o ajustar | |
-| 14 | Charla/taller educativo propuesta a organizaciones | Propuesta | Confirmar tema, formato y si es gratuita (verificar reglas del Colegio) | |
-| 15 | Google Business Profile y página de servicio con honorarios visibles | Propuesta | Autorizar redacción de borradores | |
-| 16 | Presupuesto para publicidad pagada | Pendiente | Definir si hay presupuesto; hoy no se recomienda | |
+| 14 | Charla educativa (`08_servicios/propuesta_charla_borrador.md`) y mensajes (`mensajes_borrador.md`) | Borrador | Confirmar tema, formato y si es gratuita (verificar reglas del Colegio) | |
+| 15 | Página de servicio y perfiles Google/LinkedIn | **Borrador para tu aprobación** | Revisar `08_servicios/pagina_de_servicio_borrador.md` y `perfiles_google_y_linkedin_borrador.md` y resolver los [?] | No publicados |
+| 16 | Presupuesto para publicidad pagada | **Resuelto 9 oct: no hay presupuesto** | — | Solo canales orgánicos |
+| 17 | Red personal: forma de pasarla (`09_red_personal/README.md`) | Esperando tu lista | Elegir cómo pasarla | Sin datos sensibles |

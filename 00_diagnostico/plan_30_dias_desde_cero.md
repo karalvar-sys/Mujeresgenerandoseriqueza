@@ -9,13 +9,13 @@ Hechos dados por Karina (9 oct 2026): meta ₡100.000 **netos** por día, entend
 
 ## 1. Antes de ofrecer nada: verificaciones tuyas (compliance)
 Cerraste tu práctica hace dos años. Antes de promocionar servicios, verificá en fuente oficial (no puedo hacerlo desde aquí):
-- [ ] Estás **activa y al día como agremiada** del Colegio de Abogados (cuotas, timbres, pólizas que correspondan).
-- [ ] Tu **habilitación como notaria** ante la Dirección Nacional de Notariado está **vigente** (incluida la garantía/fianza y cualquier requisito de actualización o cierre/reapertura de protocolo tras el cese).
-- [ ] Estás **inscrita como contribuyente** en Hacienda con actividad de servicios jurídicos y facturación electrónica activa (y régimen de IVA que corresponda).
-- [ ] Tu inscripción en la **CCSS** como trabajadora independiente.
-- [ ] Reglas de **publicidad** del Colegio sobre cómo presentarte. Vos elegís "asesora"; para actos notariales los instrumentos y cartas llevarán tu calidad de notaria porque la ley lo exige.
-- [ ] Contabilidad y **separación de cuentas** (tu propio libro, p. 51).
-Marcá cada ítem; sin esto no se contacta a nadie.
+- [x] Estás **activa y al día como agremiada** del Colegio de Abogados (cuotas, timbres, pólizas que correspondan).
+- [x] Tu **habilitación como notaria** ante la Dirección Nacional de Notariado está **vigente** (incluida la garantía/fianza y cualquier requisito de actualización o cierre/reapertura de protocolo tras el cese).
+- [x] Estás **inscrita como contribuyente** en Hacienda con actividad de servicios jurídicos y facturación electrónica activa (y régimen de IVA que corresponda).
+- [x] Tu inscripción en la **CCSS** como trabajadora independiente.
+- [x] Reglas de **publicidad** del Colegio sobre cómo presentarte. Vos elegís "asesora"; para actos notariales los instrumentos y cartas llevarán tu calidad de notaria porque la ley lo exige.
+- [x] Contabilidad y **separación de cuentas** (tu propio libro, p. 51).
+**Karina confirmó las verificaciones el 9 oct 2026** (confirmación suya; no verificada por mí). Se vuelven a revisar si cambia algo.
 
 ## 2. Qué vender primero desde cero (cambio de prioridad)
 | Prioridad | Oferta | Por qué |
