@@ -11,9 +11,11 @@ Clics a formulario de servicios,intención,Enlace con UTM,n/d,definir,definir,de
 Consultas comerciales recibidas,comercial,Registro propio,n/d,definir,definir,definir,
 Consultas calificadas,comercial,Registro propio,n/d,3 (umbral E1),definir,definir,
 Clientes nuevos (servicios),comercial,Registro propio,n/d,1 (umbral E2),definir,definir,
-Ventas eBook,comercial,Panel KDP,n/d,definir,definir,definir,No atribuir a una pieza sin evidencia
+Ventas eBook (pedidos 30 días al 9-oct-2026),comercial,Panel KDP,0,definir,definir,definir,No atribuir a una pieza sin evidencia
 Inscriptos lista de espera guía,validación,Substack/formulario,n/d,definir,definir,definir,
 Ingresos totales,ingresos,Registro propio,n/d,definir,definir,definir,
 Ingresos recurrentes confirmados,ingresos,Registro propio,0 (hasta confirmar),definir,definir,definir,
 Horas semanales de marketing,esfuerzo,Registro propio,n/d,definir,definir,definir,
 Ingreso por hora de marketing,rentabilidad,Calculado,n/d,definir,definir,definir,Revisión mensual
+Páginas KENP leídas (30 días al 9-oct-2026),comercial,Panel KDP,0,definir,definir,definir,
+Artículos publicados en Substack (acumulado al 9-oct-2026),contenido,Substack,4 (último 8-sep-2026),definir,definir,definir,

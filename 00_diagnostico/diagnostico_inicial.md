@@ -13,7 +13,7 @@ Karina cerró su oficina de veinte años en circunstancias que no eligió; sus s
 ## A. Inventario de activos y canales
 | Activo | Estado verificado | Falta |
 |---|---|---|
-| eBook *Mujeres generándose riqueza: Manual para emprendedoras* | PDF de 81 pp., © 2025; ilustración y maquetación de Áurea Empresarial; 6 bloques temáticos (base legal, finanzas, presupuesto, reportes, estrategia fiscal, brechas fintech) | Enlace Amazon, precio, ventas/regalías, reseñas |
+| eBook *Mujeres generándose riqueza: Manual para emprendedoras* | PDF de 81 pp., © 2025; ilustración y maquetación de Áurea Empresarial; 6 bloques temáticos (base legal, finanzas, presupuesto, reportes, estrategia fiscal, brechas fintech) | Precio, reseñas; **ventas últimos 30 días: 0 (KDP, 9 oct)** |
 | Experiencia | "Más de quince años" en derecho y asesoría de negocios, con contadores (p. 10); talleres y blog previos (p. 12) | Ámbito exacto de práctica, tarifa, ¿notaria?, capacidad |
 | Substack | Texto de 3 de 4 artículos recibido (23 ago–8 sep); sin métricas; ver `analisis_substack.md` | Suscriptores, aperturas, texto del 8 sep |
 | Facebook | Página recibida por ID; **no accesible** | Seguidores, alcance, mejores publicaciones |
@@ -48,7 +48,7 @@ Karina cerró su oficina de veinte años en circunstancias que no eligió; sus s
 | Charlas con cámaras, incubadoras, redes de emprendedoras | Medio | Variable | Medio | Bajo | Oportunista; contacto personal |
 | Nuevo libro | Largo | Meses | Alto | Alto | Solo si una idea del archivo demuestra tracción |
 
-Ingresos **confirmados**: ninguno documentado. **Puntuales**: regalías del eBook (monto desconocido). **Hipotéticos**: el resto.
+Ingresos **confirmados**: ninguno documentado. **Puntuales**: el eBook tiene 0 ventas en los últimos 30 días (KDP, 9 oct 2026); no hay datos anteriores. **Hipotéticos**: el resto.
 
 ## E. Tres ofertas iniciales
 Precios: **no los fijo sin tu tarifa**. Fórmula: `(horas estimadas × tarifa objetivo) + margen de riesgo`, contrastada con la pauta de honorarios del Colegio de Abogados y con el mercado (a verificar). Todo se cobra por **paquete cerrado**.

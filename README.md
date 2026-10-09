@@ -11,4 +11,5 @@ Empezá por `00_diagnostico/diagnostico_inicial.md` (v0.2) y `05_activos_marca/h
 | `04_produccion/` | Piezas finales + hoja de control | 1 carrusel en borrador |
 | `05_activos_marca/` | Portada y control de calidad del eBook | Portada extraída del PDF |
 
-Nada está publicado ni programado. El PDF del manuscrito no se guarda en el repositorio.
+Nada está publicado ni programado. Sistema de agentes: ver `CLAUDE.md`, `.claude/agents/` y `06_aprobaciones/cola_de_aprobacion.md`. El PDF del manuscrito no se guarda en el repositorio.
+|  | Cola de aprobación | Activa |

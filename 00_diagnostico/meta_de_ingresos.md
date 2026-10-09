@@ -33,3 +33,8 @@ Constitución de S.A. o S.R.L. con sesión de arranque: libros, representación,
 | 60 días | ≥ 20 acumuladas | ≥ 6–8 | A definir |
 | 90 días | ≥ 35 acumuladas | ≥ 12–15 | A definir |
 Son umbrales de trabajo para aprender, no previsiones. Se recalibran con la línea base real.
+
+## Tarifas: arancel de honorarios (actualización)
+Karina indica que sus tarifas son las del último arancel del Colegio de Abogados (versión 2019). **No pude abrir el PDF** (el entorno bloquea abogados.or.cr). Dato secundario, sin verificar: un despacho privado publica una hora profesional de ₡90.750 sin IVA (₡102.548 con IVA) citando decretos 41457-JP y 41930-JP. Pendiente: subir el PDF o pegar las páginas de hora profesional, constitución de sociedades, certificaciones y asesoría; y confirmar si el arancel fija tarifas mínimas u obligatorias y si hay versión posterior.
+
+Escenario con ese dato provisional (₡90.750/hora, sin IVA): ₡100.000 por día equivale a ≈ **1,1 horas profesionales por día**, o ≈ **24 horas al mes** (22 días hábiles) / **33 horas** (30 días). Con tu disponibilidad completa, la meta es alcanzable en horas; el problema es conseguir los clientes, no el tiempo. Un paquete de ₡250.000 representaría ≈ 2,8 horas de arancel: debe ser un alcance que se pueda hacer en ese tiempo o menos.
