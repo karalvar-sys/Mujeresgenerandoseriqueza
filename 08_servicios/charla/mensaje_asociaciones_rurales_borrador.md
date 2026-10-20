@@ -3,7 +3,7 @@
 Vos enviás (correo, mensaje de la página de la asociación o el medio que usen). Voseo. Adjuntar `resumen_mujeres_rurales.pdf` solo si responden o lo piden.
 
 > Estimadas compañeras de [nombre de la asociación]:
-> Soy Karina Alvarado, escritora y asesora, autora de *Mujeres generándose riqueza: Manual para emprendedoras*. [?: agregar "He trabajado muchos años en el sector agrícola" si querés mencionarlo; decidiste no hacer del agro tu nicho público, pero con estas asociaciones puede darte credibilidad.]
+> Soy Karina Alvarado, asesora, autora de *Mujeres generándose riqueza: Manual para emprendedoras*. [?: agregar "He trabajado muchos años en el sector agrícola" si querés mencionarlo; decidiste no hacer del agro tu nicho público, pero con estas asociaciones puede darte credibilidad.]
 > Me gustaría ofrecerles, sin costo, una charla de una hora para sus asociadas: "La finca, el negocio y tu nombre: decisiones antes de formalizar". Se explica, en lenguaje claro, qué cambia entre trabajar a nombre propio, en sociedad, en asociación o en cooperativa, y cómo ordenar contratos, facturas y papeles. No se venden servicios durante la charla.
 > ¿Con quién puedo conversar 20 minutos para ver fecha, lugar y formato?
 > Gracias por su trabajo. Un saludo, Karina.

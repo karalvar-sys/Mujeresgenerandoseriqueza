@@ -5,7 +5,7 @@ Estado: **Borrador para tu aprobación.** Decisiones marcadas con [?]. Voseo pro
 ---
 
 ## Karina Alvarado
-**Escritora y asesora · Dinero, derecho y autonomía de las mujeres**  [?: "escritora y asesora" o solo "asesora"]
+**Asesora y autora · Dinero, derecho y autonomía de las mujeres**  [?: "asesora y autora" o solo "asesora"]
 
 Estoy reinventándome como escritora. Escribo sobre dinero, derecho y autonomía de las mujeres: soy autora de *Mujeres generándose riqueza: Manual para emprendedoras* (eBook en Amazon) y escribo mi newsletter del mismo nombre.
 
@@ -61,6 +61,6 @@ Esta página es información general sobre Costa Rica y no constituye asesoría 
 - [x] "Más de quince años" (decidido 9 oct).
 - [x] No se menciona el cierre de la práctica (decidido 9 oct).
 - [ ] [?] **Constitución de sociedades:** por decisión tuya no se menciona tu calidad de notaria. Pero el acto de constitución lo autoriza una notaria. Si la página ofrece constituir y no dice quién autoriza el acto, puede inducir a error. Mínimo recomendado: identificarlo en la propuesta y la carta de encargo antes de cobrar; mejor, una línea en la página. Verificá con el Colegio y la Dirección Nacional de Notariado qué se exige en publicidad. Alternativa: publicar solo los servicios 2 y 3 y ofrecer el 1 "a consulta".
-- [ ] [?] "Escritora y asesora" como descriptor.
+- [ ] [?] "Asesora y autora" como descriptor.
 - [ ] [?] Horas y plazos: son mis estimaciones. Ver explicación en el chat; decime cuánto te toma de verdad cada servicio.
 - [ ] [?] Tu dirección o ámbito: si trabajás virtual, no hace falta dirección pública.

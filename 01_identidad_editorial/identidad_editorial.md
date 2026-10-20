@@ -45,6 +45,7 @@ No: gurú, coach, influencer de lujo, promesas.
 Coral Herrera, Esther Perel, Brené Brown: preguntas, tensiones, estructuras sociales. No se copian frases ni voz. Tu libro cita a María Antonieta Solórzano, Morgan Housel y David Bach: respetar derechos de cita.
 
 ## Identidad visual (de la portada del eBook)
+**Decisión 20 oct:** se mantiene esta paleta (malva) para toda la comunicación nueva; el feed previo (morado oscuro y naranja con fotos) queda como histórico.
 | Color | Código | Uso |
 |---|---|---|
 | Malva | `#9A7D91` | Fondos de portada y cierre |

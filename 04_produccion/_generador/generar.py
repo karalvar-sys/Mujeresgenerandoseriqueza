@@ -2,9 +2,14 @@
 import os, sys, shutil, csv
 from PIL import Image, ImageDraw, ImageFont
 sys.path.insert(0, os.path.dirname(__file__))
-from contenido import PIECES
+PROP = os.environ.get('PROP')=='1'
+if PROP:
+    from contenido_propuestas import PIECES
+else:
+    from contenido import PIECES
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
-PROD = os.path.join(ROOT, "04_produccion")
+PROD = os.path.join(ROOT, "04_produccion", "_propuestas") if os.environ.get("PROP")=="1" else os.path.join(ROOT, "04_produccion")
+os.makedirs(PROD, exist_ok=True)
 COVER = os.path.join(ROOT, "05_activos_marca", "portada_ebook-01.png")
 W, H = 1080, 1350
 MAUVE=(154,125,145); PLUM=(74,52,86); PEACH=(244,190,150); TEAL=(205,233,232); LIGHT=(243,248,247); CHAR=(51,51,51); WHITE=(255,255,255); CREAM=(255,244,236)
@@ -129,13 +134,15 @@ def save_set(slides,folder,pdf=None):
         im=render(s,i,n); im.save(os.path.join(folder,f"slide_{i:02d}.png")); ims.append(im)
     if pdf: ims[0].save(pdf,"PDF",resolution=100.0,save_all=True,append_images=ims[1:])
 COND={"revision-de-registros-publicos","creencias-heredadas","tres-obstaculos","libros-legales","cargo-en-sociedad","el-libro"}
-def estado_txt(cond): 
+def estado_txt(cond):
+    if PROP: return "**Estado: PROPUESTA para tu aprobación (alternativa al lote aprobado)** · no programado ni publicado"
+    
     return "**Estado: APROBADO por Karina el 9 oct 2026"+(" CON CONDICIONES (ver control de calidad y marcadores [ENLACE])" if cond else "")+"** · programación pendiente, a cargo de Karina · aún no programado ni publicado"
 def write_copy(path,title,rows,cond=False):
     open(path,"w",encoding="utf-8").write(f"# {title}\n\n{estado_txt(cond)}\n\n"+rows)
 control=[]
 def add(fecha,canal,formato,pieza,carpeta,flags,verificar,hora):
-    control.append([fecha,hora,canal,formato,pieza,carpeta,("Aprobado con condiciones - programar por Karina" if any(c in carpeta for c in COND) else "Aprobado - programar por Karina"),"; ".join(flags+verificar) if (flags or verificar) else "","No"])
+    control.append([fecha,hora,canal,formato,pieza,carpeta,("Propuesta - alternativa (requiere aprobacion)" if PROP else ("Aprobado con condiciones - programar por Karina" if any(c in carpeta for c in COND) else "Aprobado - programar por Karina")),"; ".join(flags+verificar) if (flags or verificar) else "","No"])
 for p in PIECES:
     # --- carrusel IG/FB
     fc=p["fecha_c"]; slug=p["slug"]
@@ -181,6 +188,6 @@ for p in PIECES:
     write_copy(os.path.join(lpath,"post.md"),f"LinkedIn: {p['tema']}",rows,slug in COND)
     add(fl,"LinkedIn","texto"+(" + documento PDF" if extra else ""),p["tema"],lf,p["flags"][:2],p["verificar"],"08:00")
 control.sort(key=lambda r:(r[0],r[1]))
-with open(os.path.join(PROD,"hoja_de_control_oct_dic.csv"),"w",newline="",encoding="utf-8") as f:
+with open(os.path.join(PROD,"hoja_de_control_propuestas.csv" if PROP else "hoja_de_control_oct_dic.csv"),"w",newline="",encoding="utf-8") as f:
     w=csv.writer(f); w.writerow(["fecha","hora_provisoria","canal","formato","pieza","carpeta","estado","requiere","programada"]); w.writerows(control)
 print(len(control),"piezas")

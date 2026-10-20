@@ -1,7 +1,7 @@
 # Perfiles — BORRADORES (no publicados)
 
 ## Google Business Profile
-- **Nombre:** Karina Alvarado, escritora y asesora [?: o solo "asesora"]
+- **Nombre:** Karina Alvarado, asesora y autora [?: o solo "asesora"]
 - **Categoría principal:** [?: elegir entre las categorías disponibles de asesoría jurídica o de negocios; verificá las reglas de publicidad del Colegio]
 - **Tipo:** servicio a domicilio/virtual (sin dirección pública) o con dirección si atendés en oficina.
 - **Descripción (≈ 480 caracteres):**
@@ -11,7 +11,7 @@
 - **Reseñas:** pedir solo cuando una clienta lo ofrezca espontáneamente; no ofrecer ventajas por reseñar.
 
 ## LinkedIn
-- **Titular:** Escritora y asesora · Dinero, derecho y autonomía de las mujeres · Autora de *Mujeres generándose riqueza*
+- **Titular:** Asesora y autora · Dinero, derecho y autonomía de las mujeres · Autora de *Mujeres generándose riqueza*
 - **Acerca de (borrador):**
   Estoy reinventándome como escritora. Escribo sobre una pregunta: por qué tantas mujeres que emprenden llegan al arranque y no al negocio consolidado, y qué parte de esa brecha se puede cerrar entendiendo las reglas del dinero y del derecho.
   Soy autora del eBook *Mujeres generándose riqueza: Manual para emprendedoras* y escribo un newsletter con el mismo nombre.
