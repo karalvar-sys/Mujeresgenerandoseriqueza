@@ -44,8 +44,10 @@ Solo Karina mueve algo a `Aprobado`. Actualizado: 2026-10-09.
 | 37 | Estadísticas por publicación e Instagram | Pendiente: tuyo | Pasar capturas de cada pieza (alcance, reacciones, comentarios, compartidos, guardados) y de Instagram | Informe parcial: `03_tablero/informes/2026-10-20_informe_semanal_parcial.md` |
 | 38 | Estático del 22 oct en Facebook | Pendiente de confirmar | ¿Está programado? El panel muestra 22 y 23 sin contenido | |
 | 39 | Agro como nicho público | **Resuelto 20 oct: no.** Sí a asociaciones de mujeres rurales | — | Material en `08_servicios/charla/` |
-| 40 | Mensaje y resumen para asociaciones de mujeres rurales | **Borrador para tu aprobación** | Aprobar, elegir asociaciones y si mencionás tu experiencia en el agro | Los enviás vos |
+| 40 | Mensaje y resumen para asociaciones de mujeres rurales | **Aprobado por Karina el 20 oct ("ok")** | Elegir 2 o 3 puertas de entrada de la lista candidata; decidir si mencionás tu experiencia en el agro | `00_diagnostico/asociaciones_mujeres_rurales_candidatas.md`. Los enviás vos |
 | 41 | Descriptor público: "abogada" (post de Delfino.cr) vs. "asesora"/"escritora y asesora" (mis borradores) | Pendiente de decisión | Unificar | Verificá las reglas de publicidad |
 | 42 | Identidad visual: feed previo (morado oscuro y naranja, fotos) vs. malva de tu portada | Pendiente de decisión | ¿Seguimos con el malva del libro o alineamos con tu feed? | Hoy el feed mezcla ambas |
-| 43 | Seguimiento a los 11 mensajes (sin respuestas a la fecha) | Pendiente | Confirmar si enviaste el recordatorio del 16 oct | |
+| 43 | Seguimiento a los 11 mensajes | **Resuelto 20 oct: recordatorio enviado; 0 respuestas** | Decidir si se cierran con cortesía | |
 | 44 | Artículo de Delfino.cr | Pendiente | Pasarme el enlace y decirme si es colaboración puntual o regular | |
+| 45 | Publicaciones de IG sin texto (13, 15 y 20 oct) | Pendiente de confirmar | ¿Se publicaron sin descripción? | Afecta la lectura de interacciones |
+| 46 | Calendario: adelantar el tema del trabajo doméstico y el art. 35 (idea #7) | **Propuesta** | Aprobar el cambio y la verificación de la norma | Basado en el alcance de tu post de Delfino.cr |
