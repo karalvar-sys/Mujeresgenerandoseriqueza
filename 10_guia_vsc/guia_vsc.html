@@ -1,0 +1,266 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8"><title>Taller de escritura y negocio: guía de trabajo en VS Code</title>
+<style>
+@page{size:8.5in 11in;margin:0}
+:root{--mal:#9A7D91;--mor:#4A3456;--dur:#F4BE96;--tur:#CDE9E8;--gris:#333;--papel:#F7F3F6}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Liberation Serif',serif;color:var(--gris);font-size:10.5pt;line-height:1.38}
+.p{width:8.5in;height:11in;padding:.55in .6in .5in;background:var(--papel);position:relative;page-break-after:always;overflow:hidden}
+.sans{font-family:'DejaVu Sans',sans-serif}
+.mono,code{font-family:'DejaVu Sans Mono',monospace}
+.top{display:flex;justify-content:space-between;font:7pt 'DejaVu Sans Mono';letter-spacing:.12em;color:#8a7a86;text-transform:uppercase;border-bottom:1px solid #cbbfc8;padding-bottom:5px;margin-bottom:14px}
+.foot{position:absolute;left:.6in;bottom:.35in;font:6.5pt 'DejaVu Sans Mono';letter-spacing:.1em;color:#8a7a86;text-transform:uppercase;display:flex;gap:8px;align-items:center}
+.stripe{display:inline-block;width:40px;height:7px;background:repeating-linear-gradient(135deg,var(--mor) 0 5px,var(--dur) 5px 10px)}
+.kick{font:bold 7.5pt 'DejaVu Sans';letter-spacing:.16em;text-transform:uppercase;color:var(--mal);margin-bottom:4px}
+h1{font:900 36pt/0.98 'DejaVu Sans';letter-spacing:-.03em;text-transform:uppercase;color:var(--mor)}
+h2{font:bold 15pt 'DejaVu Sans';letter-spacing:-.01em;text-transform:uppercase;color:var(--mor);margin:10px 0 5px}
+h3{font:bold 9pt 'DejaVu Sans';text-transform:uppercase;letter-spacing:.04em;color:var(--mor)}
+p{margin-bottom:6px}
+.cols{display:flex;gap:.3in}.cols>*{flex:1}
+.cover{background:var(--mor);color:#f4ecf1;padding:.6in}
+.cover .top{color:#cdb8c7;border-color:#6d5680}
+.cover h1{color:#fff;font-size:50pt;margin-top:1.1in}.cover h1 em{font-style:normal;color:var(--dur)}
+.cover .sub{font:italic 14pt/1.35 'Liberation Serif';color:#e6d6e0;margin-top:22px;max-width:5.4in}
+.cover .meta{position:absolute;left:.6in;right:.6in;bottom:.55in;display:flex;gap:.25in;border-top:1px solid #6d5680;padding-top:10px}
+.cover .meta div{flex:1;font:7.5pt 'DejaVu Sans Mono';color:#e6d6e0}.cover .meta b{display:block;color:var(--dur);letter-spacing:.12em;margin-bottom:3px}
+.bar{height:14px;background:repeating-linear-gradient(135deg,var(--dur) 0 12px,var(--mal) 12px 24px);position:absolute;top:0;left:0;right:0}
+.rule{display:flex;gap:10px;margin-bottom:9px}.rule .n{font:900 22pt 'DejaVu Sans';color:var(--mal);line-height:1}
+.nota{background:#fff;border:1px solid #d8ccd4;box-shadow:2px 3px 0 #e3d9df;padding:9px 11px;margin:10px 0;transform:rotate(-.4deg)}
+.nota b{display:block;font:bold 6.5pt 'DejaVu Sans Mono';letter-spacing:.14em;text-transform:uppercase;color:var(--mal);margin-bottom:3px}
+.nota span{font:italic 11pt/1.3 'Liberation Serif';color:var(--mor)}
+.big{font:900 84pt/0.85 'DejaVu Sans';color:var(--mal)}
+.sthead{display:flex;gap:14px;align-items:flex-end;border-bottom:3px solid var(--mor);padding-bottom:7px;margin-bottom:10px}
+.sthead .t h1{font-size:25pt}.sthead .m{font:7pt 'DejaVu Sans Mono';letter-spacing:.08em;text-transform:uppercase;color:#7d6c78;margin-top:5px}
+.intro{border-left:3px solid var(--mal);padding-left:10px;font-style:italic;margin-bottom:12px}
+.mision{background:var(--mor);color:#fff;padding:10px 13px;margin-bottom:10px}.mision b{display:block;font:bold 7pt 'DejaVu Sans Mono';letter-spacing:.16em;color:var(--dur);margin-bottom:4px}
+.steps{list-style:none;counter-reset:s}.steps li{counter-increment:s;display:flex;gap:8px;margin-bottom:7px}
+.steps li:before{content:counter(s);flex:none;width:18px;height:18px;border:1.4px solid var(--mor);border-radius:50%;font:bold 8pt/16px 'DejaVu Sans';text-align:center;color:var(--mor);margin-top:1px}
+.steps b{font-family:'DejaVu Sans';font-size:8.5pt;text-transform:uppercase;color:var(--mor)}
+.term{background:#2b2030;color:#eadfe6;border-radius:4px;margin-bottom:9px;font:7.8pt/1.5 'DejaVu Sans Mono';overflow:hidden}
+.term .h{background:#3a2c42;padding:3px 9px;font-size:6.8pt;color:#b9a6b3;letter-spacing:.08em}
+.term pre{padding:8px 10px;white-space:pre-wrap;font:inherit}.term .pr{color:var(--dur)}.term .c{color:#9c8a97}
+code{background:#eadfe6;padding:0 3px;border-radius:2px;font-size:8.6pt;color:var(--mor)}
+.check{border:1px solid var(--mor);border-left:6px solid var(--mal);background:#fff;padding:8px 11px;margin-top:8px}
+.check h3{margin-bottom:4px}.check div{margin-bottom:2px}.check div:before{content:'☐ ';color:var(--mor)}
+.q{border-left:1px dashed #a999a3;padding-left:12px}.q h3{color:var(--mal)}
+table{border-collapse:collapse;width:100%;font-size:9.3pt}th{font:bold 7pt 'DejaVu Sans Mono';letter-spacing:.1em;text-transform:uppercase;text-align:left;color:#7d6c78;border-bottom:2px solid var(--mor);padding:4px 5px}
+td{border-bottom:1px solid #d8ccd4;padding:5px;vertical-align:top}td:first-child{font:bold 8.6pt 'DejaVu Sans';color:var(--mor)}
+.zona{display:flex;gap:6px;margin:8px 0}.zona div{flex:1;padding:8px;color:#fff;font-size:9pt}
+.tl{display:flex;margin-top:6px;border-top:2px dashed var(--mor);padding-top:8px}.tl div{flex:1;font:7.5pt 'DejaVu Sans';text-align:center}.tl b{display:block;color:var(--mal);font-size:9pt}
+.tag{display:inline-block;background:var(--dur);color:var(--mor);font:bold 7pt 'DejaVu Sans Mono';padding:1px 5px;letter-spacing:.08em}
+.line{border-bottom:1px solid #aaa;height:17px}
+.p:not(.cover)>*:not(.foot){zoom:1.17}
+</style></head><body>
+
+<!-- 1 PORTADA -->
+<div class="p cover"><div class="bar"></div>
+<div class="top"><span>Guía de trabajo · sesión práctica</span><span>Karina Alvarado, escritora y asesora</span></div>
+<div class="kick" style="color:var(--dur);margin-top:.5in">Caso integrador · tu propio proyecto</div>
+<h1>Tu taller<br>de escritura<br><em>en VS Code</em></h1>
+<p class="sub">Un sistema de agentes que trabaja para vos. Una tarde para aprender a manejarlo con Claude Code, sin perder el hilo y sin que nada salga sin tu aprobación.</p>
+<div class="meta"><div><b>DURACIÓN</b>2 h 30 · ajustable</div><div><b>FORMATO</b>Vos al teclado, con tu repo real</div><div><b>HERRAMIENTAS</b>VS Code · Claude Code · Git · Python</div><div><b>ENTREGABLE</b>Una pieza revisada, lista para subir a mano</div></div></div>
+
+<!-- 2 ANTES DE ARRANCAR -->
+<div class="p"><div class="top"><span>Tu taller de escritura en VS Code · guía de trabajo</span><span>Hoja 02 / 10</span></div>
+<div class="kick">Antes de arrancar</div><h1>Hoy vos sos<br>la jefa de taller.</h1>
+<div class="cols" style="margin-top:14px"><div>
+<p>No hay que aprender a programar. Hay un sistema ya armado (ocho agentes, una cola de aprobación, un generador de imágenes) y una tarde para aprender a dirigirlo desde VS Code.</p>
+<p>Claude Code trabaja <b>dentro de tu carpeta</b>: lee <code>CLAUDE.md</code>, conoce tus reglas y llama a los agentes. Vos decidís; él ejecuta y te muestra.</p>
+<h2>Las tres reglas del taller</h2>
+<div class="rule"><span class="n">1</span><p><b>Nada sale sin tu aprobación.</b> Claude entrega archivos; vos los subís. Nunca "programado" ni "publicado" hasta que lo confirmés.</p></div>
+<div class="rule"><span class="n">2</span><p><b>El contexto es combustible.</b> No pegues documentos enteros: señalá el archivo con <code>@</code>.</p></div>
+<div class="rule"><span class="n">3</span><p><b>Diez minutos pegada = bandera roja.</b> Parás, mirás <code>/context</code> y pedís que Claude explique qué está intentando.</p></div></div>
+<div><div class="kick">Tu equipo</div>
+<table><tr><td>Jefa de taller</td><td>Vos. Decidís y aprobás.</td></tr><tr><td>Sesión principal</td><td>Claude Code: coordina, llama agentes, junta resultados.</td></tr><tr><td>8 agentes</td><td>Estrategia, ideas, multicanal, producción, newsletter, ingresos, crecimiento, control de calidad.</td></tr><tr><td>Control de calidad</td><td>Revisa todo antes de que llegue a tu cola.</td></tr></table>
+<div class="nota"><b>Nota del profe</b><span>Nadie es "la que no sabe programar". La que mejor entiende el negocio suele escribir los mejores pedidos.</span></div></div></div>
+<div class="kick" style="margin-top:12px">La ruta de la tarde</div>
+<div class="tl"><div><b>0:00</b>Brief</div><div><b>0:10</b>01 Abrir</div><div><b>0:35</b>02 Agentes</div><div><b>1:00</b>03 Tanque</div><div><b>1:15</b>04 Bodega</div><div><b>1:35</b>05 Pieza</div><div><b>2:10</b>06 Semana</div><div><b>2:30</b>Cierre</div></div>
+<div class="foot"><span class="stripe"></span>Karina Alvarado · uso interno</div></div>
+
+<!-- 3 MAPA -->
+<div class="p"><div class="top"><span>Tu taller de escritura en VS Code · guía de trabajo</span><span>Hoja 03 / 10</span></div>
+<div class="kick">El mapa del sistema</div><h1>Seis piezas,<br>un solo motor.</h1>
+<p style="max-width:4.4in;margin-top:10px">Cada número es una estación. Si quitás una, el sistema vuelve a depender de tu memoria. Guardá este mapa a mano.</p>
+<table style="margin-top:14px"><tr><th>#</th><th>Pieza</th><th>Qué es</th><th>Dónde vive</th></tr>
+<tr><td>01</td><td>VS Code + Claude Code</td><td>El banco de trabajo: editor, terminal y asistente en la misma ventana.</td><td>Tu computadora</td></tr>
+<tr><td>02</td><td>Agentes</td><td>Especialistas con su propia hoja de vida.</td><td><code>.claude/agents/</code></td></tr>
+<tr><td>03</td><td>Contexto</td><td>El combustible. Se mide y se cuida.</td><td><code>/context</code> · <code>CLAUDE.md</code></td></tr>
+<tr><td>04</td><td>La bodega</td><td>Carpetas numeradas, hoja de control y cola de aprobación.</td><td><code>00_…</code> a <code>10_…</code></td></tr>
+<tr><td>05</td><td>La imprenta</td><td>Generador de imágenes y PDFs con la paleta malva.</td><td><code>04_produccion/_generador/</code></td></tr>
+<tr><td>06</td><td>La semana</td><td>Rutina, aprobación y subida manual.</td><td><code>/semana</code> · <code>06_aprobaciones/</code></td></tr></table>
+<h2 style="margin-top:16px">La vida de una pieza</h2>
+<div style="display:flex;gap:4px;font:bold 7pt 'DejaVu Sans';text-align:center;text-transform:uppercase;margin-top:6px">
+<div style="flex:1;background:var(--mor);color:#fff;padding:9px 3px">Borrador</div><div style="flex:1;border:1.5px solid var(--mor);padding:9px 3px">Control de calidad</div><div style="flex:1;border:1.5px solid var(--mor);padding:9px 3px">Pendiente de aprobación</div><div style="flex:1;border:2px solid var(--mal);background:var(--dur);padding:9px 3px">Aprobado<br>(solo vos)</div><div style="flex:1;border:1.5px solid var(--mor);padding:9px 3px">Listo para subir</div><div style="flex:1;background:var(--mor);color:#fff;padding:9px 3px">Publicado (lo confirmás vos)</div></div>
+<div class="nota" style="margin-top:22px"><b>Nota del profe</b><span>Si Claude te dice "ya lo programé", está equivocado: no existe integración autorizada. Pedile que corrija el estado.</span></div>
+<div class="foot"><span class="stripe"></span>Karina Alvarado · uso interno</div></div>
+
+<!-- 4 ESTACIÓN 01 -->
+<div class="p"><div class="top"><span>Tu taller de escritura en VS Code · guía de trabajo</span><span>Hoja 04 / 10</span></div>
+<div class="sthead"><div class="big">01</div><div class="t"><div class="kick">Estación 01 · VS Code</div><h1>Abrir el taller</h1><div class="m">25 min · protagonista: jefa de taller · herramienta: VS Code</div></div></div>
+<div class="intro">Antes de tocar nada, la jefa recorre el taller. Abrís el proyecto, ves dónde está cada cosa y le pedís a Claude que te cuente qué entendió.</div>
+<div class="cols"><div>
+<div class="mision"><b>MISIÓN</b>Tener el proyecto abierto en VS Code, Claude Code funcionando dentro de la carpeta y la confirmación de que leyó tus reglas.</div>
+<ol class="steps">
+<li><span><b>Instalá VS Code.</b> Desde code.visualstudio.com.</span></li>
+<li><span><b>Instalá Git y Python 3.</b> El generador de imágenes necesita Pillow (<code>pip install pillow</code>).</span></li>
+<li><span><b>Traé el repositorio.</b> Clonalo desde GitHub o abrí la carpeta si ya la tenés (<i>Archivo → Abrir carpeta</i>).</span></li>
+<li><span><b>Instalá la extensión de Claude Code.</b> Panel de extensiones (<code>Ctrl+Shift+X</code>), buscá "Claude Code" y entrá con tu cuenta de Claude.</span></li>
+<li><span><b>Abrí la terminal integrada</b> con <code>Ctrl+`</code> y escribí <code>claude</code> dentro de la carpeta del proyecto.</span></li>
+<li><span><b>Pedile que lea el proyecto</b> con el mensaje de la derecha.</span></li></ol></div>
+<div>
+<div class="term"><div class="h">● ● ● terminal · bahía 01</div><pre><span class="pr">$</span> cd Mujeresgenerandoseriqueza
+<span class="pr">$</span> claude
+<span class="pr">›</span> /agents <span class="c"># deberías ver los 8 agentes</span></pre></div>
+<div class="term"><div class="h">● ● ● primer mensaje</div><pre><span class="pr">›</span> Leé CLAUDE.md y contame en 10 líneas:
+mi meta, mis reglas de aprobación, qué
+puedo hacer sola y qué no. Después
+decime qué carpeta mirarías primero para
+saber cómo va la semana. No cambies nada.</pre></div>
+<div class="nota"><b>Nota del profe</b><span>Si te contesta algo que no coincide con tus reglas, no lo corrijas en la charla: corregí <code>CLAUDE.md</code>. Ese archivo se lee en cada conversación.</span></div></div></div>
+<div class="cols"><div class="check"><h3>Checkpoint · para pasar a la siguiente estación</h3><div>Proyecto abierto en VS Code.</div><div><code>claude</code> responde en la terminal integrada.</div><div><code>/agents</code> muestra los ocho agentes.</div><div>Claude resumió bien tus reglas.</div></div>
+<div class="q"><h3>Pregunta de consultora</h3><p>¿Qué regla de <code>CLAUDE.md</code> te daría más pena que Claude olvidara? Si la respuesta es "ninguna", el archivo está demasiado largo.</p></div></div>
+<div class="foot"><span class="stripe"></span>Karina Alvarado · uso interno</div></div>
+
+<!-- 5 ESTACIÓN 02 -->
+<div class="p"><div class="top"><span>Tu taller de escritura en VS Code · guía de trabajo</span><span>Hoja 05 / 10</span></div>
+<div class="sthead"><div class="big">02</div><div class="t"><div class="kick">Estación 02 · Agentes</div><h1>Los especialistas</h1><div class="m">25 min · protagonista: jefa de taller · herramienta: /agents · .claude/agents/</div></div></div>
+<div class="intro">Una buena jefa no hace todo sola: asigna cada trabajo a la persona correcta y revisa el resultado. Los agentes no se llaman entre sí; los coordina la sesión principal.</div>
+<div class="cols"><div>
+<div class="mision"><b>MISIÓN</b>Saber qué hace cada agente, pedirle una tarea concreta a uno solo y leer cómo devuelve el resultado.</div>
+<table><tr><th>Agente</th><th>Usalo para</th></tr>
+<tr><td>director-estrategia</td><td>Prioridades de la semana; qué dejar de hacer.</td></tr>
+<tr><td>editor-ideas</td><td>Convertir una nota o un audio tuyo en idea.</td></tr>
+<tr><td>estratega-multicanal</td><td>Calendario y adaptación por canal.</td></tr>
+<tr><td>productor-creativo</td><td>Carruseles, imágenes, videos.</td></tr>
+<tr><td>especialista-newsletter</td><td>Estructura y títulos de Substack.</td></tr>
+<tr><td>estratega-ingresos</td><td>Servicios, precios, borradores comerciales.</td></tr>
+<tr><td>analista-crecimiento</td><td>Métricas e informe semanal.</td></tr>
+<tr><td>control-calidad</td><td>Revisar antes de aprobar.</td></tr></table></div>
+<div>
+<ol class="steps">
+<li><span><b>Mirá un agente por dentro.</b> En el explorador de VS Code abrí <code>.claude/agents/control-calidad.md</code>.</span></li>
+<li><span><b>Leé su "hoja de vida".</b> Nombre, descripción, herramientas permitidas y reglas.</span></li>
+<li><span><b>Delegá una tarea.</b> Probá con el mensaje de abajo.</span></li>
+<li><span><b>Observá.</b> El agente trabaja con su propio contexto y a la conversación solo llega el resumen.</span></li></ol>
+<div class="term"><div class="h">● ● ● prompt sugerido</div><pre><span class="pr">›</span> Usá el agente analista-crecimiento
+para decirme qué datos me faltan en
+03_tablero/tablero_indicadores.csv.
+Solo lista, no inventes cifras.</pre></div>
+<div class="nota"><b>Nota del profe</b><span>El campo <code>tools</code> de cada agente limita lo que puede tocar. El de control de calidad no escribe piezas: solo revisa. Esa separación es la que te protege.</span></div></div></div>
+<div class="cols"><div class="check"><h3>Checkpoint</h3><div>Leíste la hoja de vida de un agente.</div><div>Delegaste una tarea y entendiste el resumen.</div><div>Sabés cuál agente usarías para cada trabajo de la tabla.</div></div>
+<div class="q"><h3>Pregunta de consultora</h3><p>¿Qué tareas <b>nunca</b> le delegarías? Pensá en lo que solo puede decidir la jefa: publicar, gastar, contactar personas, fijar precios.</p></div></div>
+<div class="foot"><span class="stripe"></span>Karina Alvarado · uso interno</div></div>
+
+<!-- 6 ESTACIÓN 03 -->
+<div class="p"><div class="top"><span>Tu taller de escritura en VS Code · guía de trabajo</span><span>Hoja 06 / 10</span></div>
+<div class="sthead"><div class="big">03</div><div class="t"><div class="kick">Estación 03 · Contexto</div><h1>El tanque de contexto</h1><div class="m">15 min + toda la tarde · transversal · herramienta: /context</div></div></div>
+<div class="intro">El contexto es el combustible de Claude. Cada archivo leído y cada vuelta de conversación lo llenan. Con el tanque casi lleno, el motor se pone pesado: olvida decisiones y se contradice.</div>
+<div class="cols"><div>
+<div class="mision"><b>MISIÓN</b>Terminar la tarde sin que Claude "pierda el hilo", y poder demostrarlo anotando el porcentaje en la bitácora.</div>
+<h3>Semáforo del tanque</h3>
+<div class="zona"><div style="background:#8c8a8c"><b>Verde</b><br>&lt; 50 %<br>Seguí. Revisá al cerrar cada tarea.</div><div style="background:#4A3456"><b>Amarillo</b><br>50–75 %<br>Terminá la tarea y compactá.</div><div style="background:#B5546B"><b>Rojo</b><br>&gt; 75 %<br>Parar. Anotá y limpiá.</div></div>
+<div class="nota"><b>Nota del profe</b><span>Pegar un error de 400 líneas es llenar el tanque con agua. Pedile que lea las últimas 30, o que un agente lo investigue y traiga la causa.</span></div></div>
+<div><h3>Tu caja de herramientas</h3>
+<table><tr><td><code>/context</code></td><td>Mirar el tanque.</td></tr><tr><td><code>/clear</code></td><td>Tanque nuevo, entre tareas que no se parecen.</td></tr><tr><td><code>/compact</code></td><td>Resumir la conversación. Decile qué conservar.</td></tr><tr><td>agentes</td><td>Trabajan con su propio tanque.</td></tr><tr><td><code>@archivo</code></td><td>Señalar un archivo en vez de pegarlo.</td></tr><tr><td>Archivos del repo</td><td>Tu memoria fuera del tanque: <code>CLAUDE.md</code>, cola de aprobación, hoja de control.</td></tr></table></div></div>
+<h2>Ejercicio · auditoría de pits</h2>
+<p>Al cerrar cada estación, escribí <code>/context</code> y anotá en la bitácora (última hoja) el porcentaje antes, la acción que tomaste y el porcentaje después.</p>
+<div class="check"><h3>Checkpoint</h3><div>Anotaste el porcentaje al cerrar al menos tres estaciones.</div><div>Usaste <code>/clear</code> o <code>/compact</code> una vez, a propósito.</div></div>
+<div class="foot"><span class="stripe"></span>Karina Alvarado · uso interno</div></div>
+
+<!-- 7 ESTACIÓN 04 -->
+<div class="p"><div class="top"><span>Tu taller de escritura en VS Code · guía de trabajo</span><span>Hoja 07 / 10</span></div>
+<div class="sthead"><div class="big">04</div><div class="t"><div class="kick">Estación 04 · La bodega</div><h1>Carpetas, control y Git</h1><div class="m">20 min · protagonista: jefa + guardiana del contexto · herramienta: VS Code, Git</div></div></div>
+<div class="intro">Si todo vive en tu cabeza, el taller depende de vos. Acá aprendés dónde está cada cosa y cómo guardar cambios sin perder nada.</div>
+<div class="cols"><div>
+<table><tr><th>Carpeta</th><th>Qué guarda</th></tr>
+<tr><td>00_diagnostico</td><td>Metas, tarifas, planes.</td></tr>
+<tr><td>01_identidad</td><td>Voz, ideas, muestras.</td></tr>
+<tr><td>02_calendario</td><td>Calendario oct–dic.</td></tr>
+<tr><td>03_tablero</td><td>Indicadores e informes.</td></tr>
+<tr><td>04_produccion</td><td>Cada pieza y el generador.</td></tr>
+<tr><td>05_activos_marca</td><td>Portada, datos del libro.</td></tr>
+<tr><td>06_aprobaciones</td><td>Cola de aprobación.</td></tr>
+<tr><td>08_servicios</td><td>Página, formulario, mensajes.</td></tr>
+<tr><td>09_red_personal</td><td>Contactos. <b>Privada:</b> no sube a Git.</td></tr></table></div>
+<div>
+<ol class="steps">
+<li><span><b>Abrí la cola.</b> <code>06_aprobaciones/cola_de_aprobacion.md</code>; con <code>Ctrl+Shift+V</code> la ves como página.</span></li>
+<li><span><b>Mirá el control.</b> <code>04_produccion/hoja_de_control_oct_dic.csv</code>: ¿qué piezas están pendientes?</span></li>
+<li><span><b>Panel de Git</b> (<code>Ctrl+Shift+G</code>): cada archivo cambiado aparece ahí.</span></li>
+<li><span><b>Guardá con sentido.</b> Un mensaje breve que diga qué cambió.</span></li></ol>
+<div class="term"><div class="h">● ● ● guardar y subir</div><pre><span class="pr">$</span> git status
+<span class="pr">$</span> git add -A
+<span class="pr">$</span> git commit -m "Piezas semana 4 revisadas"
+<span class="pr">$</span> git push</pre></div>
+<div class="nota"><b>Nota del profe</b><span>Antes de cada <code>git add</code>, mirá la lista: la carpeta de contactos (<code>09_red_personal</code>) no debería aparecer. Si aparece, parás y preguntás.</span></div></div></div>
+<div class="check"><h3>Checkpoint</h3><div>Abriste la cola de aprobación y encontraste una pieza pendiente.</div><div>Hiciste un commit con un mensaje claro.</div><div>Confirmaste que ningún archivo de <code>09_red_personal</code> sube a Git.</div></div>
+<div class="foot"><span class="stripe"></span>Karina Alvarado · uso interno</div></div>
+
+<!-- 8 ESTACIÓN 05 -->
+<div class="p"><div class="top"><span>Tu taller de escritura en VS Code · guía de trabajo</span><span>Hoja 08 / 10</span></div>
+<div class="sthead"><div class="big">05</div><div class="t"><div class="kick">Estación 05 · La imprenta</div><h1>Una pieza, de la idea al archivo</h1><div class="m">35 min · protagonista: jefa de taller · herramientas: VS Code, Python, /revisar-pieza</div></div></div>
+<div class="intro">Una pieza en el mundo real son una idea tuya, un texto revisado y un archivo listo para subir. Hoy hacés el ciclo completo con una sola.</div>
+<div class="cols"><div>
+<div class="mision"><b>MISIÓN</b>Cambiar el texto de una pieza, generar la imagen, pasarla por control de calidad y dejarla en tu cola.</div>
+<ol class="steps">
+<li><span><b>Elegí una pieza</b> de <code>04_produccion/</code> y abrí su <code>copy.md</code>.</span></li>
+<li><span><b>Pedile cambios</b> a Claude con precisión: qué frase, por qué.</span></li>
+<li><span><b>Regenerá las imágenes.</b> El texto de las láminas vive en <code>_generador/contenido.py</code>.</span></li>
+<li><span><b>Mirá el resultado.</b> Abrí el PNG en VS Code (se ve en el editor).</span></li>
+<li><span><b>Control de calidad.</b> Corré <code>/revisar-pieza</code> con la carpeta de la pieza.</span></li>
+<li><span><b>A la cola.</b> Que Claude la deje en <code>Pendiente de aprobación</code>. Aprobás vos.</span></li></ol></div>
+<div>
+<div class="term"><div class="h">● ● ● generar imágenes</div><pre><span class="pr">$</span> cd 04_produccion/_generador
+<span class="pr">$</span> python3 generar.py</pre></div>
+<div class="term"><div class="h">● ● ● revisar</div><pre><span class="pr">›</span> /revisar-pieza 04_produccion/&lt;carpeta&gt;</pre></div>
+<div class="term"><div class="h">● ● ● pedido de ejemplo</div><pre><span class="pr">›</span> En @04_produccion/&lt;carpeta&gt;/copy.md
+cambiá la apertura por una pregunta.
+Mantené mi voz: voseo, sin sermones.
+No inventes cifras. Después decime qué
+archivos tocaste.</pre></div>
+<div class="nota"><b>Nota del profe</b><span>Cuando una cifra o una norma aparece en una pieza, preguntale a Claude de dónde sale. Si dice "del libro", falta verificarla.</span></div></div></div>
+<div class="check"><h3>Checkpoint</h3><div>Imagen generada y vista en VS Code.</div><div>Control de calidad sin pendientes.</div><div>Pieza en la cola, sin decir "programada" ni "publicada".</div></div>
+<div class="foot"><span class="stripe"></span>Karina Alvarado · uso interno</div></div>
+
+<!-- 9 ESTACIÓN 06 + cierre -->
+<div class="p"><div class="top"><span>Tu taller de escritura en VS Code · guía de trabajo</span><span>Hoja 09 / 10</span></div>
+<div class="sthead"><div class="big">06</div><div class="t"><div class="kick">Estación 06 · La semana</div><h1>Aprobar y subir</h1><div class="m">40 min · protagonista: jefa de taller · herramientas: /semana, cola de aprobación</div></div></div>
+<div class="intro">El trabajo se repite cada semana: preparar, revisar, decidir, subir, registrar. Con los agentes, la jefa dedica su tiempo a decidir.</div>
+<div class="cols"><div>
+<div class="mision"><b>MISIÓN</b>Correr la rutina semanal, leer el informe y tomar tres decisiones: qué aprobás, qué rechazás, qué pausás.</div>
+<ol class="steps">
+<li><span><b>Corré la rutina.</b> Escribí <code>/semana</code>.</span></li>
+<li><span><b>Leé el informe.</b> ¿Qué funcionó? ¿Qué datos faltan?</span></li>
+<li><span><b>Decidí.</b> Respondé con palabras explícitas: "aprobado", "rechazado", "pausá".</span></li>
+<li><span><b>Subí a mano.</b> Meta o LinkedIn con los archivos entregados.</span></li>
+<li><span><b>Confirmá.</b> Decile a Claude qué subiste para que lo registre en <code>registro_programacion.csv</code>.</span></li></ol></div>
+<div>
+<h3>Qué requiere siempre tu aprobación</h3>
+<ul style="margin:5px 0 8px 16px"><li>Publicar o modificar Substack, KDP y redes.</li><li>Gastar dinero.</li><li>Contactar a una persona.</li><li>Fijar o cambiar precios.</li><li>Usar historias o datos personales.</li><li>Responder consultas jurídicas individuales.</li></ul>
+<div class="nota"><b>Nota del profe</b><span>El mejor sistema no es el que hace más: es el que te deja tiempo para escribir. Reservá tus mejores horas para los artículos.</span></div></div></div>
+<h2>Cierre de la tarde · cómo sabés que lo lograste</h2>
+<table><tr><th>Criterio</th><th>1 · En el gancho</th><th>2 · En bahía</th><th>3 · Control de calidad</th><th>4 · Listo para entregar</th></tr>
+<tr><td>Entender el proyecto</td><td>Repite las reglas.</td><td>Explica el flujo.</td><td>Corrige <code>CLAUDE.md</code>.</td><td>Decide qué automatizar.</td></tr>
+<tr><td>Agentes</td><td>Los mira.</td><td>Usa uno.</td><td>Delega con precisión.</td><td>Combina varios.</td></tr>
+<tr><td>Contexto</td><td>Sin registro.</td><td>Usó <code>/clear</code>.</td><td>Auditoría completa.</td><td>Sabe cuándo compactar.</td></tr>
+<tr><td>Bodega y Git</td><td>Solo mira.</td><td>Hace commit.</td><td>Revisa antes de subir.</td><td>Protege lo privado.</td></tr>
+<tr><td>Pieza</td><td>Edita a mano.</td><td>Genera imagen.</td><td>Pasa control de calidad.</td><td>Lista en cola.</td></tr></table>
+<div class="foot"><span class="stripe"></span>Karina Alvarado · uso interno</div></div>
+
+<!-- 10 BITÁCORA -->
+<div class="p"><div class="top"><span>Tu taller de escritura en VS Code · guía de trabajo</span><span>Hoja 10 / 10</span></div>
+<div class="kick">Para llenar a mano</div><h1 style="font-size:30pt">Bitácora de la jefa de taller</h1>
+<div style="text-align:right;margin-top:-14px;font:8pt 'DejaVu Sans Mono'">FECHA _____________ · PIEZA ______________________</div>
+<div style="border-bottom:3px solid var(--mor);margin:8px 0 12px"></div>
+<h3>Recorrido y auditoría de contexto</h3>
+<table style="margin-top:4px"><tr><th>#</th><th>Estación</th><th>% antes</th><th>Acción (/compact, /clear, agente…)</th><th>% después</th><th>Listo</th></tr>
+<tr><td>01</td><td>Abrir el taller</td><td></td><td></td><td></td><td>☐</td></tr><tr><td>02</td><td>Los especialistas</td><td></td><td></td><td></td><td>☐</td></tr><tr><td>03</td><td>Tanque de contexto</td><td></td><td></td><td></td><td>☐</td></tr><tr><td>04</td><td>La bodega</td><td></td><td></td><td></td><td>☐</td></tr><tr><td>05</td><td>La imprenta</td><td></td><td></td><td></td><td>☐</td></tr><tr><td>06</td><td>La semana</td><td></td><td></td><td></td><td>☐</td></tr></table>
+<div class="cols" style="margin-top:16px"><div>
+<h3>Decisiones que tomé y por qué</h3><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div>
+<h3 style="margin-top:12px">Lo que quiero automatizar después</h3><div class="line"></div><div class="line"></div><div class="line"></div></div>
+<div><h3>Piezas que aprobé hoy</h3><div class="line"></div><div class="line"></div><div class="line"></div>
+<h3 style="margin-top:12px">Piezas que rechacé o pausé, y por qué</h3><div class="line"></div><div class="line"></div><div class="line"></div>
+<h3 style="margin-top:12px">Lo que subí a mano</h3><div class="line"></div><div class="line"></div></div></div>
+<div style="border-top:1px dashed #a999a3;margin-top:18px;padding-top:10px"><b class="sans" style="font-size:9pt;color:var(--mor)">BANDERA ROJA.</b> ¿En qué momento te quedaste pegada y qué te sacó del atasco?
+<div class="line"></div><div class="line"></div></div>
+<div class="foot"><span class="stripe"></span>Karina Alvarado · uso interno</div></div>
+</body></html>
