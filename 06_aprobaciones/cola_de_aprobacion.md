@@ -41,3 +41,5 @@ Solo Karina mueve algo a `Aprobado`. Actualizado: 2026-10-09.
 | 34 | Plan del newsletter (`07_biblioteca/newsletter/plan_newsletter.md`) | **Borrador para tu aprobación** | Aprobar ajustes (dirección, nombre con tilde), cadencia y calendario; mandar el texto cortado | |
 | 35 | Diferenciador agrícola: ¿hacerlo línea pública (perfiles, mensajes, algunas piezas)? | **Propuesta** | Decidir si el sector agro es tu nicho público; subsector y zona | Si sí: ajusto perfiles y propongo cambiar 3 a 4 piezas del lote (solo con tu aprobación) |
 | 36 | Artículos del Substack | **Decidido 9 oct: los redacta Karina** | Compartir la idea de psicología del dinero cuando la retome | |
+| 37 | Estadísticas por publicación e Instagram | Pendiente: tuyo | Pasar capturas de cada pieza (alcance, reacciones, comentarios, compartidos, guardados) y de Instagram | Informe parcial: `03_tablero/informes/2026-10-20_informe_semanal_parcial.md` |
+| 38 | Estático del 22 oct en Facebook | Pendiente de confirmar | ¿Está programado? El panel muestra 22 y 23 sin contenido | |

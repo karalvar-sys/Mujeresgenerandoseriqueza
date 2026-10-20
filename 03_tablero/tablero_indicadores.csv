@@ -1,6 +1,6 @@
 indicador,tipo,fuente,linea_base,meta_30d,meta_60d,meta_90d,notas
 Seguidores Instagram,audiencia,Insights IG,n/d,definir con línea base,definir,definir,No optimizar solo seguidores
-Seguidores Facebook,audiencia,Insights FB,n/d,definir,definir,definir,
+Seguidores Facebook,audiencia,Insights FB,total n/d; 0 nuevos en 28 días (a 19-oct-2026),definir,definir,definir,
 Conexiones/seguidores LinkedIn,audiencia,LinkedIn analytics,170 seguidores (20-oct-2026); 163 conexiones (9-oct-2026),definir,definir,definir,
 Suscriptores Substack,audiencia,Substack,~2 (autoinformado 9-oct-2026),definir,definir,definir,Indicador clave
 Alcance medio por pieza (IG),alcance,Insights IG,n/d,definir,definir,definir,
@@ -25,3 +25,5 @@ Honorarios sin IVA ni timbres,ingresos,Registro propio,0,definir,definir,definir
 Impresiones de publicaciones LinkedIn (7 días),alcance,LinkedIn analytics,303 (a 20-oct-2026),definir,definir,definir,Sin desglose por publicación
 Visitas al perfil LinkedIn (90 días),intención,LinkedIn analytics,14 (a 20-oct-2026),definir,definir,definir,
 Apariciones en búsqueda LinkedIn (6-12 oct),intención,LinkedIn analytics,9,definir,definir,definir,
+Visualizaciones Facebook (28 días),alcance,Panel FB,230 (-84% vs período previo; a 19-oct-2026),definir,definir,definir,Panel para empresas
+Interacciones Facebook (28 días),interacción,Panel FB,10 (-63% vs período previo; a 19-oct-2026),definir,definir,definir,0 comentarios recientes
