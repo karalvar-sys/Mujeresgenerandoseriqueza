@@ -2,7 +2,10 @@
 
 Objetivo: pasar de una red de 163 conexiones, casi sin emprendedoras, a una red con **mujeres que dirigen o fundan negocios en Costa Rica**, que hoy son tu clienta ideal y tu mejor canal de recomendación. Enfoque: conversación y valor primero, no venta. Sin presupuesto de publicidad (decisión del 9 oct). Los agentes preparan materiales; **vos enviás y publicás**.
 
-## 0. Dato nuevo (9 oct): tu sector es el agrícola
+## 0. Actualización (20 oct): el agro NO es nicho público; las asociaciones de mujeres rurales SÍ son prioridad
+Karina decidió el 20 oct: **no** posicionarse públicamente como abogada/asesora del agro, pero **sí** acercarse a **asociaciones de mujeres rurales**. Se mantiene la experiencia agrícola como conocimiento que sustenta la charla; mencionarla en el primer mensaje es opcional y decisión suya. Material: `08_servicios/charla/resumen_mujeres_rurales.pdf` y `mensaje_asociaciones_rurales_borrador.md`.
+
+## 0b. Dato previo (9 oct): tu sector es el agrícola
 Karina trabajó toda la vida en el sector agrícola. Eso es una **diferenciación real**: pocas personas combinan derecho societario y notarial con conocimiento del campo. Propuesta: priorizar a **productoras y empresarias agropecuarias** como primer segmento de la red, sin cerrar la puerta a otras.
 Segmentos agro a explorar (hipótesis):
 - Productoras y dueñas de fincas (cultivos, ganadería, forestal, agroindustria pequeña).
