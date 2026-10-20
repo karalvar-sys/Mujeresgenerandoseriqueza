@@ -18,6 +18,18 @@ Base: todo lo recibido hasta hoy. **Lo observado** (datos reales) está separado
 
 ---
 
+## Actualización con tus respuestas (20 oct 2026)
+| Dato | Respuesta | Qué cambia |
+|---|---|---|
+| Costos cubiertos | **10 meses** (≈ ₡10 M al ritmo de ₡1 M/mes) | **Baja la urgencia financiera.** Los ₡100.000/día pasan a ser una meta de 6 a 12 meses sin presión de caja inmediata. El riesgo ya no es quedarse sin fondos en 90 días sino **perder tiempo en lo que no funciona** |
+| Ubicación | **Santa Ana, San José** | Zona del Gran Área Metropolitana: permite atención presencial y reuniones en persona. Sirve para **búsqueda local** (perfil de Google con Santa Ana) y para explorar organizaciones y cámaras de la zona (verificar) |
+| Exclientas | No | Esa base cálida no se usa; el plan depende de canales nuevos |
+| Ingreso puente | **Sí** | Se activa como complemento (capacitaciones pagadas, redacción, revisión de textos). Confirmá con el Colegio si el arancel aplica a capacitaciones; como referencia, la hora profesional es ₡90.750 |
+| Enlace del perfil | **Solo el de Substack** | Se confirma el cuello de botella: **no hay página ni formulario**. Preparé una página y la especificación del formulario (`08_servicios/web/`) |
+| Presupuesto de anuncios | **Modesto, tipo ₡10.000** | Alcanza para **una prueba de aprendizaje**, no para una campaña. Ver diseño abajo |
+| Reels | **Sí, dispuesta a probar** | Preparé 3 Reels borrador (`04_produccion/_reels/`) |
+**Diseño de la prueba de anuncio (₡10.000, 7 días, a partir del 19 nov y solo si el formulario está activo):** promocionar tu **artículo de Delfino.cr** (tu pieza de mayor alcance y de menor riesgo de publicidad profesional), con objetivo **tráfico al formulario o al newsletter**, Costa Rica, mayores de 18. **No se promociona un servicio legal.** Regla de corte: si no hay ni un clic al formulario ni una suscripción con esos ₡10.000, no se repite. Con ese monto el alcance será pequeño: sirve para medir el costo por clic, no para llenar la agenda.
+
 ## 1. Perspectiva financiera (¿cuánto tiempo hay y qué hay que ganar?)
 **Hallazgo central:** el plan no tiene aún una pieza clave: **cuánto tiempo podés sostenerte sin ingresos**. Es el dato que más condiciona las decisiones.
 **Aritmética (supuestos entre paréntesis):**

@@ -55,3 +55,7 @@ Solo Karina mueve algo a `Aprobado`. Actualizado: 2026-10-09.
 | 48 | Análisis de próximos pasos (`00_diagnostico/analisis_proximos_pasos.md`) | **Para tu lectura y decisión** | Aprobar el plan de 14 días, los puntos de decisión y los datos que faltan | Incluye observaciones del asistente de Meta |
 | 49 | Prueba de Reels (3 en 3 semanas) | **Propuesta** | ¿Con tu voz, con texto en pantalla o ambos? | Puedo preparar guiones; el audio lo ponés vos desde la biblioteca de Meta |
 | 50 | Publicidad pagada en Meta | **Aplazada al día 30 (19 nov)** | Decidir si habrá presupuesto de prueba | Solo con formulario activo y reglas de publicidad verificadas |
+| 51 | Respuestas del 20 oct: 10 meses de costos cubiertos; Santa Ana; sin exclientas; ingreso puente sí; enlace del perfil = Substack; anuncios ≈ ₡10.000; Reels sí | **Registradas** | — | En `analisis_proximos_pasos.md` |
+| 52 | Página de servicio (`08_servicios/web/index.html`) y formulario (`formulario_google_forms.md`) | **Borrador para tu aprobación** | Completar marcadores, decidir los [?] y crear el formulario | No publicada. Prioridad nº 1 del plan de 14 días |
+| 53 | Reels borrador (3): 24 oct, 31 oct, 7 nov | **Borrador para tu aprobación** | Aprobar y agregar audio libre de Meta o tu voz | `04_produccion/_reels/` |
+| 54 | Prueba de anuncio ₡10.000 (a partir del 19 nov) | **Condicionada** | Confirmar tras activar formulario y verificar reglas de publicidad | Se promociona tu artículo, no un servicio |

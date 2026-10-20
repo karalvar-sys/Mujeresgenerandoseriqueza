@@ -42,3 +42,4 @@ Piezas en `04_produccion/AAAA-MM-DD_canal_formato_campaña/` con `copy_y_ficha.m
 - **Descripciones:** toda publicación se sube **con su descripción completa** (`copy.md`): las capturas mostraron 3 piezas sin texto.
 - **Nueva línea temática:** **asociarse** (cooperativas, asociaciones, economía feminista en grupo); propuesta en `04_produccion/_propuestas/` (alternativa a las semanas 6 y 8, pendiente de aprobación). No empujar por ahora el tema del trabajo doméstico y el art. 35.
 - **Asociaciones de mujeres rurales:** vía de entrada principal para charlas (`00_diagnostico/asociaciones_mujeres_rurales_candidatas.md`).
+- **Datos del 20 oct:** 10 meses de costos cubiertos; vive en Santa Ana, San José; sin exclientas; acepta ingreso puente; el enlace del perfil es solo el Substack (no hay formulario ni página: ver `08_servicios/web/`); presupuesto de anuncios ≈ ₡10.000 para una prueba; prueba de 3 Reels aprobada.
