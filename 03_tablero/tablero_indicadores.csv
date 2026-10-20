@@ -1,7 +1,7 @@
 indicador,tipo,fuente,linea_base,meta_30d,meta_60d,meta_90d,notas
 Seguidores Instagram,audiencia,Insights IG,n/d,definir con línea base,definir,definir,No optimizar solo seguidores
 Seguidores Facebook,audiencia,Insights FB,n/d,definir,definir,definir,
-Conexiones/seguidores LinkedIn,audiencia,LinkedIn analytics,n/d,definir,definir,definir,
+Conexiones/seguidores LinkedIn,audiencia,LinkedIn analytics,170 seguidores (20-oct-2026); 163 conexiones (9-oct-2026),definir,definir,definir,
 Suscriptores Substack,audiencia,Substack,~2 (autoinformado 9-oct-2026),definir,definir,definir,Indicador clave
 Alcance medio por pieza (IG),alcance,Insights IG,n/d,definir,definir,definir,
 Tasa de guardados/compartidos,interacción,Insights,n/d,definir,definir,definir,Más útil que likes
@@ -22,3 +22,6 @@ Artículos publicados en Substack (acumulado al 9-oct-2026),contenido,Substack,4
 Mensajes personales enviados,actividad,Registro propio,0,100,200,300,Meta de proceso del plan desde cero
 Conversaciones reales con aliados/organizaciones,actividad,Registro propio,0,15-20,definir,definir,
 Honorarios sin IVA ni timbres,ingresos,Registro propio,0,definir,definir,definir,Meta final: 2200000 CRC/mes
+Impresiones de publicaciones LinkedIn (7 días),alcance,LinkedIn analytics,303 (a 20-oct-2026),definir,definir,definir,Sin desglose por publicación
+Visitas al perfil LinkedIn (90 días),intención,LinkedIn analytics,14 (a 20-oct-2026),definir,definir,definir,
+Apariciones en búsqueda LinkedIn (6-12 oct),intención,LinkedIn analytics,9,definir,definir,definir,
